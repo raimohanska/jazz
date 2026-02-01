@@ -243,7 +243,7 @@ This creates a strong, propulsive rhythm and fuller harmonic texture than earlie
 #### Harmony
 - Primarily diatonic (staying within major/minor keys)
 - Standard classical progressions (I-IV-V-I)
-- Some chromaticism for color
+- Some [chromaticism](#chromaticism) for color
 - Secondary dominants for modulation between strains
 - Simpler than jazz harmony that would follow
 
@@ -361,7 +361,7 @@ All three improvised their parts simultaneously, creating dense, joyous polyphon
 
 #### Rhythm Section
 - **Piano** or **Banjo**: Strummed chords on all four beats or played stride patterns
-- **Tuba** or **Bass**: Played on beats 1 and 3 (not yet walking bass lines)
+- **Tuba** or **Bass**: Played on beats 1 and 3 (not yet [walking bass](#walking-bass) lines)
 - **Drums**: Kept time with march-like patterns, often emphasizing all four beats
 
 The rhythm was energetic but more "on the beat" than later swing—a "two-beat feel" or [2/2 time](#two-beat-feel).
@@ -382,7 +382,7 @@ The [12-bar blues](#twelve-bar-blues) became a standard form:
 #### Harmony
 - Mostly diatonic with simple I-IV-V progressions
 - Some secondary dominants
-- Occasional chromaticism
+- Occasional [chromaticism](#chromaticism)
 - Simpler than bebop, but more adventurous than ragtime
 
 #### Melody & Phrasing
@@ -516,10 +516,10 @@ Great arrangers (Fletcher Henderson, Don Redman, Eddie Sauter) were as important
 
 #### Rhythm Section Evolution
 Major changes from New Orleans style:
-- **Bass**: Walking bass lines—playing all four beats, outlining chord changes
+- **Bass**: [Walking bass](#walking-bass) lines—playing all four beats, outlining chord changes
 - **Drums**: Hi-hat on 2 and 4, ride cymbal for swing feel, bass drum for accents
-- **Guitar**: Strummed chords on all four beats (Freddie Green style) or comping
-- **Piano**: Comping (playing chords rhythmically) behind soloists, or playing written parts
+- **Guitar**: Strummed chords on all four beats (Freddie Green style) or [comping](#comping)
+- **Piano**: [Comping](#comping) (playing chords rhythmically) behind soloists, or playing written parts
 
 Created the [four-beat feel](#four-beat-feel) that propelled dancers.
 
@@ -761,7 +761,7 @@ Bebop was primarily instrumental music—its fast tempos and complex melodies di
 
 ### Essential Recordings
 
-1. **"Ko-Ko"** - Charlie Parker (1945) - Blazing tempo, contrafact on "Cherokee"; definitive bebop
+1. **"Ko-Ko"** - Charlie Parker (1945) - Blazing tempo, [contrafact](#contrafacts) on "Cherokee"; definitive bebop
 2. **"Salt Peanuts"** - Dizzy Gillespie (1945) - Playful melody, virtuosic solos; bebop joy
 3. **"A Night in Tunisia"** - Dizzy Gillespie (1946) - Exotic harmony, Afro-Cuban influence; Gillespie masterpiece
 4. **"Ornithology"** - Charlie Parker (1946) - Contrafact on "How High the Moon"; classic changes
@@ -770,7 +770,7 @@ Bebop was primarily instrumental music—its fast tempos and complex melodies di
 7. **"Anthropology"** - Charlie Parker & Dizzy Gillespie (1948) - Classic rhythm changes; Parker and Diz together
 8. **"Un Poco Loco"** - Bud Powell (1951) - Piano trio at its peak; Powell's genius on display
 9. **"Cherokee"** - Charlie Parker (1942/Live) - The original changes; hear how fast Parker thought
-10. **"Groovin' High"** - Dizzy Gillespie (1945) - Reharmonization of "Whispering"; trumpet brilliance
+10. **"Groovin' High"** - Dizzy Gillespie (1945) - [Reharmonization](#reharmonization) of "Whispering"; trumpet brilliance
 
 ### Cultural Impact
 
@@ -1208,7 +1208,7 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 
 **Listening Notes**:
 - Notice arranged section writing—saxophones, trumpets, trombones playing composed parts
-- Hear the four-beat feel created by walking bass and steady swing rhythm
+- Hear the [four-beat feel](#four-beat-feel) created by [walking bass](#walking-bass) and steady swing rhythm
 - Observe call-and-response between sections (typical swing arrangement technique)
 - Listen for featured soloists emerging from ensemble texture
 - Compare rhythm section feel to New Orleans jazz—more propulsive, evenly swinging
@@ -1218,7 +1218,7 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 
 | Track | Artist | Year | What to Listen For |
 |-------|--------|------|-------------------|
-| Ko-Ko | Charlie Parker | 1945 | Blazing fast tempo; Parker's incredible facility; contrafact on "Cherokee" changes |
+| Ko-Ko | Charlie Parker | 1945 | Blazing fast tempo; Parker's incredible facility; [contrafact](#contrafacts) on "Cherokee" changes |
 | Salt Peanuts | Dizzy Gillespie | 1945 | Playful melody; virtuosic trumpet; bebop joy and humor despite complexity |
 | A Night in Tunisia | Dizzy Gillespie | 1946 | Afro-Cuban rhythmic influence; exotic harmony; memorable composed melody |
 | Ornithology | Charlie Parker | 1946 | Bebop melody over "How High the Moon" changes; eighth-note lines; Parker's flow |
@@ -1227,17 +1227,17 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 | Anthropology | Parker & Gillespie | 1948 | Classic rhythm changes; two masters trading ideas; contrapuntal interaction |
 | Un Poco Loco | Bud Powell | 1951 | Piano trio bebop; Powell's single-note right-hand lines; rhythmic complexity |
 | Cherokee | Charlie Parker (live) | 1942 | The original changes Parker used for "Ko-Ko"; hear the transformation |
-| Groovin' High | Dizzy Gillespie | 1945 | Bebop reharmonization of "Whispering"; Gillespie's trumpet mastery |
+| Groovin' High | Dizzy Gillespie | 1945 | Bebop [reharmonization](#reharmonization) of "Whispering"; Gillespie's trumpet mastery |
 
 **Listening Notes**:
 - Notice the dramatic tempo increase from swing (often 200+ BPM)
 - Hear continuous eighth-note improvisation outlining complex chord changes
-- Listen for chromatic approach notes and enclosures in melodies
-- Observe ride cymbal keeping time (not bass drum as in swing)
+- Listen for chromatic [approach notes](#approach-notes) and [enclosures](#enclosures) in melodies
+- Observe [ride cymbal](#ride-cymbal-pattern) keeping time (not bass drum as in swing)
 - Notice small group format—no arranged big band sections
 - Listen for bebop's characteristic: unison melody → solos → unison melody structure
 - Hear how soloists "play the changes"—improvisation clearly outlining harmonic progression
-- Compare contrafacts to original songs (if you know them)—same harmony, new melody
+- Compare [contrafacts](#contrafacts) to original songs (if you know them)—same harmony, new melody
 
 ---
 
