@@ -221,9 +221,9 @@ Ragtime was *composed* rather than improvised, distinguishing it from the jazz t
 ### Musical Characteristics
 
 #### Syncopation (*Theory Introduction*)
-The defining characteristic of ragtime is [syncopation](#syncopation)—placing rhythmic emphasis on weak beats or offbeats. While the left hand maintains a steady "oom-pah" or march-like bass pattern in duple meter (usually 2/4), the right hand plays syncopated melodies that accent unexpected beats.
+The defining characteristic of ragtime is [syncopation](#syncopation)—placing rhythmic emphasis on weak beats or offbeats. On piano, the left hand maintains a steady "oom-pah" or march-like bass pattern in duple meter (usually 2/4), while the right hand plays syncopated melodies that accent unexpected beats.
 
-This creates a delightful tension: the left hand stays "straight" while the right hand "rags" the rhythm. Example: where you'd expect emphasis on beats 1 and 3, ragtime melodies accent the "and" of 1 and beat 2.
+This creates a delightful tension: the pianist's left hand stays "straight" while the right hand "rags" the rhythm. Example: where you'd expect emphasis on beats 1 and 3, ragtime melodies accent the "and" of 1 and beat 2.
 
 #### Form
 Ragtime pieces typically use multi-strain form borrowed from marches:
@@ -234,7 +234,7 @@ Ragtime pieces typically use multi-strain form borrowed from marches:
 - Each strain repeated
 
 #### Stride Piano (*Theory Introduction*)
-[Stride piano](#stride-piano) evolved from ragtime's left-hand patterns. The left hand "strides" between:
+[Stride piano](#stride-piano) evolved from ragtime's left-hand patterns. The pianist's left hand "strides" between:
 - Low bass notes or octaves on beats 1 and 3
 - Mid-range chords on beats 2 and 4
 
@@ -1156,7 +1156,7 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 
 | Track | Artist | Year | What to Listen For |
 |-------|--------|------|-------------------|
-| Maple Leaf Rag | Scott Joplin | 1899 | Syncopated right hand vs. steady left hand; formal structure; crisp articulation |
+| Maple Leaf Rag | Scott Joplin | 1899 | Piano: syncopated right hand vs. steady left hand; formal structure; crisp articulation |
 | The Entertainer | Scott Joplin | 1902 | Memorable melody; balance between accessibility and sophistication |
 | Frog Legs Rag | James Scott | 1906 | Harmonic sophistication; smooth modulations between strains |
 | Solace | Scott Joplin | 1909 | Slower tempo showing ragtime's lyrical side; tango influence |
@@ -1168,7 +1168,7 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 **Listening Notes**:
 - Compare Joplin's composed ragtime to Morton's looser, jazz-influenced version
 - Notice how stride piano (Johnson) expands ragtime's rhythmic foundation
-- Listen for the "oom-pah" left hand pattern and how it evolved
+- Listen for the piano's "oom-pah" left hand pattern and how it evolved
 - Pay attention to formal structure - ragtime's classical influences
 
 ### Chapter 2: New Orleans Jazz & Dixieland
