@@ -6,7 +6,6 @@
 
 ### Front Matter
 - [About This Book](#about-this-book)
-- [For the AI Assistant: Book Purpose & Guidelines](#for-the-ai-assistant-book-purpose--guidelines)
 - [Introduction: What Is Jazz?](#introduction-what-is-jazz)
 
 ### Part I: Building Blocks (Theory Integrated with History)
@@ -45,15 +44,15 @@
 
 ### Purpose: Your Journey Through Jazz
 
-This book is designed to teach you, as a musician, the essentials of jazzâ€”its styles, evolution, and musical DNA. Whether you're a beginner curious about jazz or an experienced player looking to deepen your understanding, this guide will help you:
+This book is designed to teach you, as a musician, the essentials of jazz—its styles, evolution, and musical DNA. Whether you're a beginner curious about jazz or an experienced player looking to deepen your understanding, this guide will help you:
 
 **Learn the Essential Styles**: Understand what defines each era of jazz, from ragtime to contemporary approaches. You'll learn not just what each style sounds like, but *why* it sounds that way and what musical elements create that sound.
 
-**Know the Must-Know Songs and Artists**: Discover the iconic recordings and influential musicians that shaped each era. These aren't just historical footnotesâ€”they're the essential listening that will train your ear and inform your playing.
+**Know the Must-Know Songs and Artists**: Discover the iconic recordings and influential musicians that shaped each era. These aren't just historical footnotes—they're the essential listening that will train your ear and inform your playing.
 
 **Understand the Musical Concepts**: Each style introduces specific musical theory concepts when they're most relevant. You'll learn bebop scales when studying bebop, modal concepts when exploring modal jazz, and so on. Theory is integrated into the historical narrative, making it easier to understand and apply.
 
-**Develop Your Musical Vocabulary**: By the end of this book, you'll be conversant in jazz's languageâ€”able to discuss, analyze, and play in various styles with understanding and confidence.
+**Develop Your Musical Vocabulary**: By the end of this book, you'll be conversant in jazz's language—able to discuss, analyze, and play in various styles with understanding and confidence.
 
 ### Who This Book Is For
 
@@ -80,7 +79,7 @@ Music is meant to be heard. Throughout this book, you'll find references to esse
 1. **Active listening**: Focus on the specific elements discussed in each chapter
 2. **Repeated listening**: These recordings reveal more with each listen
 3. **Comparative listening**: Notice how later styles reference or react to earlier ones
-4. **Transcription**: Pick key solos or melodies to learn by earâ€”the ultimate learning tool
+4. **Transcription**: Pick key solos or melodies to learn by ear—the ultimate learning tool
 
 ### Learning Path Recommendations
 
@@ -110,125 +109,26 @@ Music is meant to be heard. Throughout this book, you'll find references to esse
 
 ---
 
-## For the AI Assistant: Book Purpose & Guidelines
-
-### Educational Objectives
-
-This book teaches musicians the essentials of jazz through an integrated approach combining:
-- Historical context and cultural significance
-- Musical analysis and theory (introduced progressively)
-- Essential artists and recordings
-- Practical application for players
-
-**Primary Goal**: Enable a musician to understand, discuss, and play in various jazz styles with authentic vocabulary and comprehension.
-
-### Teaching Approach & Consistency Requirements
-
-**Progressive Theory Integration**
-- Introduce concepts when historically/musically relevant
-- Link forward and backward to show connections
-- Define terms at first use, then link to Appendix B for deep dives
-- Build complexity gradually (e.g., basic harmony â†’ extended harmony â†’ modal harmony â†’ free approaches)
-
-**Consistent Chapter Structure**
-Each style chapter must include:
-1. **Historical Context** - When/where/why it emerged
-2. **Relationship to Earlier Styles** - What it built on, reacted against, or transformed
-3. **Musical Characteristics** - Melody, harmony, rhythm, form, instrumentation
-4. **Key Musicians** - With their specific contributions
-5. **Essential Recordings** - With brief annotations about what makes them essential
-6. **Vocal Traditions** - When applicable to the style
-7. **Cultural Impact** - Broader influence beyond music
-
-**Terminology Linking Strategy**
-- Use `[term](#term)` format for first instance in each chapter
-- Link to Appendix B for detailed explanations
-- Ensure terms are defined in Appendix B before being referenced
-- Use consistent terminology across chapters
-
-**Musical Examples**
-- Reference specific bars, progressions, or techniques
-- Point to Appendix A for notation
-- Describe sound in words accessible to all musicians
-- Include both technical and aesthetic descriptions
-
-### Voice & Tone Consistency
-
-- **Authoritative but approachable**: Expert knowledge without jargon overload
-- **Enthusiastic**: Convey the excitement and beauty of the music
-- **Practical**: Always connect to what a musician can do/hear/play
-- **Respectful**: Honor all styles and artists
-- **Clear**: Explain complex ideas simply without oversimplifying
-
-### Content Guidelines
-
-**For Historical Context**:
-- Provide enough social/cultural background to understand why the music emerged
-- Connect to broader historical events when relevant
-- Mention key venues, cities, and scenes
-- Note technological changes (recording, instruments) when they matter
-
-**For Musical Analysis**:
-- Use standard music theory terminology
-- Provide examples from the essential recordings
-- Compare/contrast with previous styles
-- Highlight innovations and characteristic elements
-- Balance technical detail with readability
-
-**For Artist Profiles**:
-- Brief but substantive (2-4 sentences)
-- Focus on their specific contribution to the style
-- Mention their instrument/role
-- Include life dates for historical figures
-
-**For Essential Recordings**:
-- List 6-10 per style (more for foundational eras, fewer for recent)
-- Include: Title, Artist, Year
-- Brief annotation (1 sentence) explaining significance
-- These should be readily available on Spotify
-
-**For Vocal Traditions**:
-- Integrate naturally when vocalists were central to the style
-- Explain how vocal approach relates to instrumental style
-- Mention key vocalists and their contributions
-- Note if primarily instrumental style
-
-### Quality Control
-
-**Accuracy**: All dates, names, and historical facts must be accurate
-**Completeness**: Each chapter should give enough information to understand the style
-**Coherence**: The narrative should flow logically from one style to the next
-**Practicality**: Every concept should connect to something a musician can hear or play
-
-### How to Handle Ambiguity
-
-- **Overlapping eras**: Acknowledge that styles overlap; give approximate date ranges
-- **Genre boundaries**: Explain that categories are descriptive tools, not rigid boxes
-- **Controversial topics**: Present multiple perspectives when there's legitimate debate
-- **Missing information**: If a specific detail is uncertain, acknowledge it rather than guess
-
----
-
 ## Introduction: What Is Jazz?
 
-Defining jazz is like trying to catch water in your handsâ€”the moment you think you've grasped it, it changes form. Over more than a century, jazz has evolved from the streets of New Orleans to concert halls worldwide, from dance music to art music, from acoustic to electric, from tightly arranged to completely free. Yet despite this diversity, certain core elements thread through all its forms.
+Defining jazz is like trying to catch water in your hands—the moment you think you've grasped it, it changes form. Over more than a century, jazz has evolved from the streets of New Orleans to concert halls worldwide, from dance music to art music, from acoustic to electric, from tightly arranged to completely free. Yet despite this diversity, certain core elements thread through all its forms.
 
 ### The Essential Elements
 
 **Improvisation**
-At its heart, jazz is improvised music. While classical musicians interpret a composer's written notes, jazz musicians create new melodies spontaneously. This doesn't mean playing random notesâ€”jazz improvisation draws on deep knowledge of harmony, melody, and rhythm, but the specific notes played in any performance are created in the moment. Even in arranged big band music, space for improvised solos is central.
+At its heart, jazz is improvised music. While classical musicians interpret a composer's written notes, jazz musicians create new melodies spontaneously. This doesn't mean playing random notes—jazz improvisation draws on deep knowledge of harmony, melody, and rhythm, but the specific notes played in any performance are created in the moment. Even in arranged big band music, space for improvised solos is central.
 
 **Swing Feel**
-The word "swing" describes both an era of jazz and a rhythmic feeling that pervades most jazz styles. Swing rhythm creates a propulsive, lilting qualityâ€”often described as a "triplet feel" where eighth notes are played unevenly rather than straight. This creates forward momentum and groove. While some modern jazz has explored straight eighth-note feels, the swing concept remains fundamental to the tradition.
+The word "swing" describes both an era of jazz and a rhythmic feeling that pervades most jazz styles. Swing rhythm creates a propulsive, lilting quality—often described as a "triplet feel" where eighth notes are played unevenly rather than straight. This creates forward momentum and groove. While some modern jazz has explored straight eighth-note feels, the swing concept remains fundamental to the tradition.
 
 **Blues Foundation**
 Jazz grew from the blues tradition, and that influence never left. The [blues scale](#blues-scale), [blue notes](#blue-notes) (slightly flattened 3rds, 5ths, and 7ths), and the emotional directness of blues expression infuse all jazz styles. Even the most harmonically complex bebop or the most avant-garde free jazz often returns to blues roots.
 
 **Individual Expression**
-Jazz values the individual voice. Two saxophonists can play the same solo transcription, but a jazz musician develops their own sound, phrasing, and approach. This emphasis on personal expressionâ€”your tone, your time feel, your harmonic choicesâ€”distinguishes jazz from many other musical traditions.
+Jazz values the individual voice. Two saxophonists can play the same solo transcription, but a jazz musician develops their own sound, phrasing, and approach. This emphasis on personal expression—your tone, your time feel, your harmonic choices—distinguishes jazz from many other musical traditions.
 
 **Interaction and Conversation**
-Jazz is collaborative music. Musicians listen and respond to each other in real-time. A rhythm section doesn't just keep timeâ€”they react to the soloist, who responds to them in turn. This musical conversation is essential to jazz, whether in a bebop quartet or a big band, in structured forms or free improvisation.
+Jazz is collaborative music. Musicians listen and respond to each other in real-time. A rhythm section doesn't just keep time—they react to the soloist, who responds to them in turn. This musical conversation is essential to jazz, whether in a bebop quartet or a big band, in structured forms or free improvisation.
 
 **Rhythm Section Foundation**
 Nearly all jazz relies on a rhythm section (typically piano/guitar, bass, and drums) that provides harmonic and rhythmic foundation while also engaging in the musical conversation. The specific roles of these instruments have evolved across jazz history, but their interactive function remains constant.
@@ -255,7 +155,7 @@ Nearly all jazz relies on a rhythm section (typically piano/guitar, bass, and dr
 
 ### A Living Tradition
 
-Jazz is both a historical tradition and a living, evolving art form. Understanding jazz history isn't just academicâ€”each era developed musical vocabulary and approaches that contemporary musicians still draw upon. A modern jazz player might use:
+Jazz is both a historical tradition and a living, evolving art form. Understanding jazz history isn't just academic—each era developed musical vocabulary and approaches that contemporary musicians still draw upon. A modern jazz player might use:
 - Blues phrasing from early jazz
 - Bebop harmonic concepts from the 1940s
 - Modal thinking from the 1960s
@@ -272,9 +172,9 @@ This book traces jazz's evolution chronologically, style by style. You'll see ho
 - Introduced new musical concepts and techniques
 - Influenced what followed
 
-You'll learn not just *what* each style sounds like, but *how* it works musicallyâ€”the scales, chords, rhythms, and forms that create each style's characteristic sound. And you'll discover the artists and recordings that defined each era.
+You'll learn not just *what* each style sounds like, but *how* it works musically—the scales, chords, rhythms, and forms that create each style's characteristic sound. And you'll discover the artists and recordings that defined each era.
 
-Jazz is a vast, rich tradition. This book is your roadmap. Let's begin where jazz beganâ€”with the rhythmic innovations of ragtime and the collective improvisation of early New Orleans.
+Jazz is a vast, rich tradition. This book is your roadmap. Let's begin where jazz began—with the rhythmic innovations of ragtime and the collective improvisation of early New Orleans.
 
 ---
 
@@ -288,7 +188,7 @@ Jazz is a vast, rich tradition. This book is your roadmap. Let's begin where jaz
 
 Before jazz had a name, American music was undergoing a transformation. In the late 19th century, African American musicians were synthesizing African rhythmic traditions with European harmonic and formal structures. This fusion happened across the South, but particularly in cities like New Orleans, St. Louis, and Sedalia, Missouri.
 
-Ragtime emerged in the 1890s, primarily as composed piano music. Published as sheet music and played in saloons, theaters, and homes, ragtime was wildly popularâ€”America's first homegrown popular music to achieve international recognition. Scott Joplin called it "ragged time" referring to its syncopated rhythms that seemed to "rag" (upset) the regular meter.
+Ragtime emerged in the 1890s, primarily as composed piano music. Published as sheet music and played in saloons, theaters, and homes, ragtime was wildly popular—America's first homegrown popular music to achieve international recognition. Scott Joplin called it "ragged time" referring to its syncopated rhythms that seemed to "rag" (upset) the regular meter.
 
 The era coincided with:
 - Post-Reconstruction racial segregation (Jim Crow laws)
@@ -321,7 +221,7 @@ Ragtime was *composed* rather than improvised, distinguishing it from the jazz t
 ### Musical Characteristics
 
 #### Syncopation (*Theory Introduction*)
-The defining characteristic of ragtime is [syncopation](#syncopation)â€”placing rhythmic emphasis on weak beats or offbeats. While the left hand maintains a steady "oom-pah" or march-like bass pattern in duple meter (usually 2/4), the right hand plays syncopated melodies that accent unexpected beats.
+The defining characteristic of ragtime is [syncopation](#syncopation)—placing rhythmic emphasis on weak beats or offbeats. While the left hand maintains a steady "oom-pah" or march-like bass pattern in duple meter (usually 2/4), the right hand plays syncopated melodies that accent unexpected beats.
 
 This creates a delightful tension: the left hand stays "straight" while the right hand "rags" the rhythm. Example: where you'd expect emphasis on beats 1 and 3, ragtime melodies accent the "and" of 1 and beat 2.
 
@@ -413,7 +313,7 @@ By the 1910s, musicians in New Orleans were taking ragtime's rhythmic innovation
 
 ### Historical Context
 
-New Orleans in the early 20th century was unlike anywhere else in America. As a port city with Caribbean, African American, Creole, French, Spanish, and Anglo cultures mixing, it was a musical melting pot. The city's unique social structureâ€”including the Creole population with classical music trainingâ€”created perfect conditions for jazz to emerge.
+New Orleans in the early 20th century was unlike anywhere else in America. As a port city with Caribbean, African American, Creole, French, Spanish, and Anglo cultures mixing, it was a musical melting pot. The city's unique social structure—including the Creole population with classical music training—created perfect conditions for jazz to emerge.
 
 Jazz developed in multiple contexts:
 - **Storyville** - The legal red-light district where musicians worked in saloons and dance halls
@@ -421,7 +321,7 @@ Jazz developed in multiple contexts:
 - **Social Aid and Pleasure Clubs** - African American community organizations that sponsored musical events
 - **Riverboats** - Mississippi River steamboats employed bands for entertainment
 
-The music that emerged was initially called "jass" or simply "hot music"â€”the term "jazz" didn't standardize until the music spread north. When Storyville closed in 1917, many musicians migrated to Chicago, Kansas City, and New York, spreading the New Orleans sound.
+The music that emerged was initially called "jass" or simply "hot music"—the term "jazz" didn't standardize until the music spread north. When Storyville closed in 1917, many musicians migrated to Chicago, Kansas City, and New York, spreading the New Orleans sound.
 
 ### Relationship to Earlier Styles
 
@@ -464,7 +364,7 @@ All three improvised their parts simultaneously, creating dense, joyous polyphon
 - **Tuba** or **Bass**: Played on beats 1 and 3 (not yet walking bass lines)
 - **Drums**: Kept time with march-like patterns, often emphasizing all four beats
 
-The rhythm was energetic but more "on the beat" than later swingâ€”a "two-beat feel" or [2/2 time](#two-beat-feel).
+The rhythm was energetic but more "on the beat" than later swing—a "two-beat feel" or [2/2 time](#two-beat-feel).
 
 #### Blues Form (*Theory Introduction*)
 The [12-bar blues](#twelve-bar-blues) became a standard form:
@@ -487,10 +387,10 @@ The [12-bar blues](#twelve-bar-blues) became a standard form:
 
 #### Melody & Phrasing
 - Based on blues scales and major scales
-- Heavy use of [blue notes](#blue-notes) (â™­3, â™­5, â™­7)
+- Heavy use of [blue notes](#blue-notes) (♭3, ♭5, ♭7)
 - Short, repeated melodic phrases (riffs)
 - Call-and-response between sections
-- Vocal qualityâ€”instruments "talked" and "sang"
+- Vocal quality—instruments "talked" and "sang"
 
 ### Key Musicians
 
@@ -513,7 +413,7 @@ First major saxophonist in jazz. Powerful, wide vibrato and passionate playing. 
 Definitive New Orleans clarinetist. Blues-drenched tone and inventive improvisation.
 
 **Kid Ory (1886-1973)** - Trombone
-Developed the tailgate trombone styleâ€”rhythmic, sliding bass lines that propelled the ensemble.
+Developed the tailgate trombone style—rhythmic, sliding bass lines that propelled the ensemble.
 
 **Original Dixieland Jazz Band** - Group
 First jazz group to make recordings (1917), though not the best or most authentic. White musicians who popularized the music commercially and gave "jazz" its name.
@@ -524,7 +424,7 @@ First jazz group to make recordings (1917), though not the best or most authenti
 Female blues singers like **Ma Rainey** and **Bessie Smith** worked alongside jazz musicians, with jazz instrumentation backing their vocals. Their phrasing, use of blue notes, and emotional directness influenced instrumental players.
 
 **Louis Armstrong's Vocals**
-Armstrong's singing was as influential as his trumpet playingâ€”natural, rhythmic, improvisational. His [scat singing](#scat-singing) (vocal improvisation using nonsense syllables) became a jazz staple.
+Armstrong's singing was as influential as his trumpet playing—natural, rhythmic, improvisational. His [scat singing](#scat-singing) (vocal improvisation using nonsense syllables) became a jazz staple.
 
 ### Essential Recordings
 
@@ -549,7 +449,7 @@ Armstrong's singing was as influential as his trumpet playingâ€”natural, rh
 
 ### The Transition Ahead
 
-By the late 1920s, jazz was evolving rapidly. Louis Armstrong's recordings with the Hot Five and Hot Seven demonstrated the power of individual solo improvisation. As jazz moved north and became more commercial, it would transform from New Orleans collective improvisation into the arranged big band swing of the 1930s. The intimate, polyphonic conversation of New Orleans jazz would give way to section-based arrangements and featured soloists, but the foundationâ€”blues feeling, swing rhythm, and improvisational spiritâ€”would remain.
+By the late 1920s, jazz was evolving rapidly. Louis Armstrong's recordings with the Hot Five and Hot Seven demonstrated the power of individual solo improvisation. As jazz moved north and became more commercial, it would transform from New Orleans collective improvisation into the arranged big band swing of the 1930s. The intimate, polyphonic conversation of New Orleans jazz would give way to section-based arrangements and featured soloists, but the foundation—blues feeling, swing rhythm, and improvisational spirit—would remain.
 
 ---
 
@@ -557,7 +457,7 @@ By the late 1920s, jazz was evolving rapidly. Louis Armstrong's recordings with 
 
 ### Historical Context
 
-The swing era was jazz's popular music golden age. From roughly 1935-1946, big band swing dominated American cultureâ€”it was dance music, pop music, and America's soundtrack. Bands led by Benny Goodman, Count Basie, Duke Ellington, and others played ballrooms, theaters, and radio broadcasts to massive audiences.
+The swing era was jazz's popular music golden age. From roughly 1935-1946, big band swing dominated American culture—it was dance music, pop music, and America's soundtrack. Bands led by Benny Goodman, Count Basie, Duke Ellington, and others played ballrooms, theaters, and radio broadcasts to massive audiences.
 
 Several factors created this phenomenon:
 - **The Great Depression** (1929-1939) - People needed escape; dance halls offered affordable entertainment
@@ -573,10 +473,10 @@ The era peaked in the late 1930s and early 1940s. World War II (1941-1945) initi
 Swing represented a fundamental shift from New Orleans jazz:
 
 **From New Orleans/Dixieland**:
-- Small groups (5-7 pieces) â†’ Large ensembles (12-25 pieces)
-- Collective improvisation â†’ Arranged section writing with featured soloists
-- Polyphonic texture â†’ Homophonic (melody with accompaniment) and call-and-response
-- Loose, variable forms â†’ Tightly arranged compositions
+- Small groups (5-7 pieces) → Large ensembles (12-25 pieces)
+- Collective improvisation → Arranged section writing with featured soloists
+- Polyphonic texture → Homophonic (melody with accompaniment) and call-and-response
+- Loose, variable forms → Tightly arranged compositions
 - But kept: blues feeling, improvisational spirit, swing rhythm
 
 **New Elements**:
@@ -593,7 +493,7 @@ The [swing rhythm](#swing-rhythm) that gives the era its name is a specific rhyt
 - Eighth notes played unevenly (roughly 2:1 ratio, like a triplet with first two notes tied)
 - Creates lilting, propulsive forward motion
 - "It don't mean a thing if it ain't got that swing" (Duke Ellington)
-- Not strictly quantifiableâ€”a feeling musicians internalize
+- Not strictly quantifiable—a feeling musicians internalize
 
 #### Big Band Instrumentation
 Standard big band (circa 1940):
@@ -616,7 +516,7 @@ Great arrangers (Fletcher Henderson, Don Redman, Eddie Sauter) were as important
 
 #### Rhythm Section Evolution
 Major changes from New Orleans style:
-- **Bass**: Walking bass linesâ€”playing all four beats, outlining chord changes
+- **Bass**: Walking bass lines—playing all four beats, outlining chord changes
 - **Drums**: Hi-hat on 2 and 4, ride cymbal for swing feel, bass drum for accents
 - **Guitar**: Strummed chords on all four beats (Freddie Green style) or comping
 - **Piano**: Comping (playing chords rhythmically) behind soloists, or playing written parts
@@ -648,7 +548,7 @@ Created the [four-beat feel](#four-beat-feel) that propelled dancers.
 The most important composer in jazz history. Used his orchestra as his instrument, writing for individual players' specific sounds. Elevated jazz to concert music while maintaining swing and blues roots. Composer of thousands of pieces including "Mood Indigo," "Sophisticated Lady," "Take the A Train."
 
 **Count Basie (1904-1984)** - Piano/Bandleader
-Master of the blues-based, riff-driven swing. His band's rhythm section (the "All-American Rhythm Section") set the standard for swing feel. Economical piano styleâ€”"less is more." Bands remained vital for 50 years.
+Master of the blues-based, riff-driven swing. His band's rhythm section (the "All-American Rhythm Section") set the standard for swing feel. Economical piano style—"less is more." Bands remained vital for 50 years.
 
 **Benny Goodman (1909-1986)** - Clarinet/Bandleader
 "The King of Swing." Virtuoso clarinetist who brought jazz to white mainstream audiences. His 1938 Carnegie Hall concert legitimized jazz as art music. Racially integrated his groups (controversial for the time).
@@ -707,7 +607,7 @@ The swing era was jazz's most vocal-friendly period. Singers were featured membe
 
 ### Cultural Impact
 
-- Jazz's commercial and cultural peakâ€”truly America's popular music
+- Jazz's commercial and cultural peak—truly America's popular music
 - Launched celebrity culture around bandleaders and singers
 - Dance crazes (Lindy Hop, Jitterbug) tied to the music
 - Broke down some racial barriers (integrated bands, mixed audiences)
@@ -745,7 +645,7 @@ The context was crucial:
 - **Small clubs** - Economic changes made small groups more viable than big bands
 - **Artistic ambition** - Conscious effort to make jazz "art music" not entertainment
 
-Bebop was also a cultural statementâ€”young, predominantly African American musicians asserting intellectual and artistic sophistication, rejecting the role of entertainer that swing often demanded.
+Bebop was also a cultural statement—young, predominantly African American musicians asserting intellectual and artistic sophistication, rejecting the role of entertainer that swing often demanded.
 
 ### Relationship to Earlier Styles
 
@@ -753,9 +653,9 @@ Bebop was a revolutionary break from [swing](#3-swing--the-big-band-era-1930s-19
 
 **From Swing**:
 - **Tempo**: Dramatically faster than most swing (often 200+ BPM vs. swing's danceable 120-180)
-- **Ensemble size**: Large bands â†’ Small combos (quintet/sextet)
-- **Texture**: Arranged sections â†’ Unison melody + individual solos
-- **Purpose**: Dance music â†’ Listening music
+- **Ensemble size**: Large bands → Small combos (quintet/sextet)
+- **Texture**: Arranged sections → Unison melody + individual solos
+- **Purpose**: Dance music → Listening music
 - **Rhythm section**: Shifted from four-to-the-floor bass drum to [ride cymbal](#ride-cymbal-pattern) with [comping](#comping) on bass drum/snare
 - **Harmony**: Extended swing's vocabulary with [altered dominants](#altered-dominants), [tritone substitutions](#tritone-substitution), and rapid [ii-V-I progressions](#ii-v-i-progression)
 - **Melody**: Replaced swing's singable melodies with angular, chromatic [bebop lines](#bebop-language) using [eighth-note streams](#eighth-note-lines) and [enclosures](#enclosures)
@@ -785,7 +685,7 @@ Bebop was a revolutionary break from [swing](#3-swing--the-big-band-era-1930s-19
 - Frequent use of [diminished](#diminished-chords) and [augmented chords](#augmented-chords)
 - [Tritone substitution](#tritone-substitution) - replacing dominant chords
 - [Upper structure triads](#upper-structure-triads) and [chord extensions](#chord-extensions) (9ths, 11ths, 13ths)
-- [Altered dominants](#altered-dominants) - â™­9, #9, â™­5, #5 on V7 chords
+- [Altered dominants](#altered-dominants) - ♭9, #9, ♭5, #5 on V7 chords
 
 #### Rhythm (*Theory Introduction*)
 - Emphasis on [syncopation](#syncopation) and rhythmic displacement
@@ -811,7 +711,7 @@ Typical bebop quintet:
 - Bass
 - Drums
 
-Instruments play melody in unison, then solo individually over rhythm section. No arranged backgroundsâ€”pure improvisation over changes.
+Instruments play melody in unison, then solo individually over rhythm section. No arranged backgrounds—pure improvisation over changes.
 
 ### Key Musicians
 
@@ -847,7 +747,7 @@ Proved trombone could play bebop's fast lines. Smooth, precise technique adapted
 
 ### Vocal Traditions
 
-Bebop was primarily instrumental musicâ€”its fast tempos and complex melodies didn't lend themselves to singing. However:
+Bebop was primarily instrumental music—its fast tempos and complex melodies didn't lend themselves to singing. However:
 
 **Scat Singing**
 - Singers like Sarah Vaughan, Ella Fitzgerald, and Betty Carter learned to scat bebop lines
@@ -878,7 +778,7 @@ Bebop was primarily instrumental musicâ€”its fast tempos and complex melodi
 - Created divide between commercial and artistic jazz that persists today
 - Influenced fashion (berets, goatees, horn-rimmed glasses, the "hipster" image)
 - Associated with Beat Generation writers and intellectuals
-- Required formal or informal studyâ€”couldn't just "play what you feel"
+- Required formal or informal study—couldn't just "play what you feel"
 - Led to development of jazz education and theory systems
 - Assertion of African American intellectual and artistic sophistication
 - Made improvisation the central focus of jazz
@@ -958,7 +858,7 @@ By the late 1940s, some musicians felt bebop's intensity needed balance. On the 
 
 ## 10. Latin Jazz: Afro-Cuban & Brazilian (1940s-Present)
 
-[*To be written: Two distinct traditions - Afro-Cuban (Machito, Dizzy Gillespie, Tito Puente, clave, montuno) vs. Brazilian (JoÃ£o Gilberto, Stan Getz, bossa nova, samba); Different rhythmic foundations; Integration with bebop and beyond*]
+[*To be written: Two distinct traditions - Afro-Cuban (Machito, Dizzy Gillespie, Tito Puente, clave, montuno) vs. Brazilian (João Gilberto, Stan Getz, bossa nova, samba); Different rhythmic foundations; Integration with bebop and beyond*]
 
 ---
 
@@ -1014,7 +914,7 @@ Tunes built on rhythm changes:
 #### Example 2: Bebop Dominant Scale
 *[Notation to be added]*
 
-The bebop dominant scale adds a major 7th (natural 7) to the mixolydian mode, creating a chromatic passing tone between the â™­7 and root. This allows chord tones to consistently fall on downbeats when playing eighth notes.
+The bebop dominant scale adds a major 7th (natural 7) to the mixolydian mode, creating a chromatic passing tone between the ♭7 and root. This allows chord tones to consistently fall on downbeats when playing eighth notes.
 
 ```
 C Bebop Dominant: C - D - E - F - G - A - Bb - B - C
@@ -1099,10 +999,10 @@ Scales with added chromatic passing tones that place chord tones on downbeats wh
 - **Bebop minor**: Dorian + major 3rd
 
 #### Blue Notes
-Notes played or sung slightly flat (or with expressive pitch variation) in blues and jazz. Primarily the â™­3, â™­5, and â™­7. Not exactly the tempered minor intervalsâ€”somewhere between major and minor. Core of blues expression.
+Notes played or sung slightly flat (or with expressive pitch variation) in blues and jazz. Primarily the ♭3, ♭5, and ♭7. Not exactly the tempered minor intervals—somewhere between major and minor. Core of blues expression.
 
 #### Blues Scale
-Six-note scale: 1 - â™­3 - 4 - â™­5 - 5 - â™­7. Combines minor pentatonic with added â™­5 ("blue note"). Foundation of blues and jazz melody. Example in C: C - Eb - F - Gb - G - Bb.
+Six-note scale: 1 - ♭3 - 4 - ♭5 - 5 - ♭7. Combines minor pentatonic with added ♭5 ("blue note"). Foundation of blues and jazz melody. Example in C: C - Eb - F - Gb - G - Bb.
 
 ### C
 
@@ -1134,7 +1034,7 @@ New melodies composed over existing chord progressions. Common in bebop as way t
 ### D
 
 #### Diminished Chords
-Chords built from stacked minor 3rds. **Diminished 7th**: C-Eb-Gb-Bbb (enharmonic with A). Symmetricalâ€”every note can function as root. Common as passing chords in bebop. Tense, unstable quality resolves to stable chords.
+Chords built from stacked minor 3rds. **Diminished 7th**: C-Eb-Gb-Bbb (enharmonic with A). Symmetrical—every note can function as root. Common as passing chords in bebop. Tense, unstable quality resolves to stable chords.
 
 ### E
 
@@ -1188,7 +1088,7 @@ Vocal improvisation using nonsense syllables instead of lyrics. Allows voice to 
 Left-hand piano technique where bass notes/octaves alternate with mid-register chords: bass (beats 1&3), chord (beats 2&4). Creates "striding" motion. Evolved from ragtime, prominent in swing era. Example: James P. Johnson, Fats Waller.
 
 #### Swing Rhythm
-The fundamental rhythmic feel of jazz: eighth notes played unevenly (long-short, roughly 2:1 ratio like a triplet). Creates propulsive, lilting quality. Not strictly quantifiableâ€”internalized feel. Notated eighth notes are "swung" in performance.
+The fundamental rhythmic feel of jazz: eighth notes played unevenly (long-short, roughly 2:1 ratio like a triplet). Creates propulsive, lilting quality. Not strictly quantifiable—internalized feel. Notated eighth notes are "swung" in performance.
 
 #### Syncopation
 Placing rhythmic emphasis on weak beats or offbeats rather than strong beats (1 and 3). Creates rhythmic tension and interest. Fundamental to all jazz, from ragtime through contemporary styles. Distinguishes jazz from much classical and popular music.
@@ -1287,7 +1187,7 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 **Listening Notes**:
 - Notice three distinct melodic voices: trumpet (lead), clarinet (upper countermelody), trombone (bass line)
 - Hear how collective improvisation creates coherent ensemble sound despite no written parts
-- Compare early recordings (ODJB, Oliver) to later Armstrongâ€”the shift toward individual soloist
+- Compare early recordings (ODJB, Oliver) to later Armstrong—the shift toward individual soloist
 - Listen for two-beat feel (emphasis on beats 1 and 3)
 - Observe how blues and jazz integrate (particularly in Smith/Armstrong collaboration)
 
@@ -1307,11 +1207,11 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 | Cherokee | Charlie Barnet Orchestra | 1939 | Complex harmony; foreshadows bebop; up-tempo excitement |
 
 **Listening Notes**:
-- Notice arranged section writingâ€”saxophones, trumpets, trombones playing composed parts
+- Notice arranged section writing—saxophones, trumpets, trombones playing composed parts
 - Hear the four-beat feel created by walking bass and steady swing rhythm
 - Observe call-and-response between sections (typical swing arrangement technique)
 - Listen for featured soloists emerging from ensemble texture
-- Compare rhythm section feel to New Orleans jazzâ€”more propulsive, evenly swinging
+- Compare rhythm section feel to New Orleans jazz—more propulsive, evenly swinging
 - Notice how vocalists integrate with instrumental arrangements
 
 ### Chapter 4: Bebop
@@ -1334,10 +1234,10 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 - Hear continuous eighth-note improvisation outlining complex chord changes
 - Listen for chromatic approach notes and enclosures in melodies
 - Observe ride cymbal keeping time (not bass drum as in swing)
-- Notice small group formatâ€”no arranged big band sections
-- Listen for bebop's characteristic: unison melody â†’ solos â†’ unison melody structure
-- Hear how soloists "play the changes"â€”improvisation clearly outlining harmonic progression
-- Compare contrafacts to original songs (if you know them)â€”same harmony, new melody
+- Notice small group format—no arranged big band sections
+- Listen for bebop's characteristic: unison melody → solos → unison melody structure
+- Hear how soloists "play the changes"—improvisation clearly outlining harmonic progression
+- Compare contrafacts to original songs (if you know them)—same harmony, new melody
 
 ---
 
@@ -1359,7 +1259,7 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 - 1917: Storyville closes; New Orleans musicians migrate north
 - 1923: King Oliver's Creole Jazz Band records (featuring Louis Armstrong)
 - 1925: Louis Armstrong's Hot Five recordings begin
-- 1928: "West End Blues" recordedâ€”Armstrong's revolutionary solo
+- 1928: "West End Blues" recorded—Armstrong's revolutionary solo
 
 ### 1930s-1940s: Swing Era
 - 1935: Benny Goodman's "Let's Dance" radio show launches swing craze
@@ -1373,13 +1273,13 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 - 1949: Miles Davis's "Birth of the Cool" sessions
 - 1950s: Hard bop develops on East Coast; cool jazz on West Coast
 - 1956: Clifford Brown dies (age 25)
-- 1959: Miles Davis records "Kind of Blue"â€”modal jazz breakthrough
+- 1959: Miles Davis records "Kind of Blue"—modal jazz breakthrough
 - 1959: Ornette Coleman's "The Shape of Jazz to Come"
 
 ### 1960s: Expansion & Revolution
 - 1960: Free jazz movement gains momentum
 - 1964: John Coltrane's "A Love Supreme"
-- 1965: Coltrane's "Ascension"â€”free jazz landmark
+- 1965: Coltrane's "Ascension"—free jazz landmark
 - 1965-1970: Fusion begins emerging
 - 1969: Miles Davis's "In a Silent Way"
 
@@ -1391,7 +1291,7 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 - 1980s: Smooth jazz emerges commercially
 
 ### 1990s-Present: Contemporary Diversity
-- 1990s: Multiple streamsâ€”traditionalist, avant-garde, fusion
+- 1990s: Multiple streams—traditionalist, avant-garde, fusion
 - 2000s: Genre-blending accelerates
 - 2010s: Hip-hop and electronic influences
 - 2020s: Jazz continues evolving in multiple directions
@@ -1426,7 +1326,7 @@ The single most important learning tool in jazz:
 - Play melody/head first (learn the composition)
 - Try to match articulation, phrasing, time feel
 - Improvise along during solo sections
-- Don't worry about playing "right" notes initiallyâ€”develop time and feel
+- Don't worry about playing "right" notes initially—develop time and feel
 
 **3. Standards Study**
 Learn the Great American Songbook:
@@ -1481,7 +1381,7 @@ For each new concept:
 **Style Studies**
 - Ragtime: Joplin pieces, stride patterns
 - Swing: Study Basie (sparse), Ellington (rich), Teddy Wilson
-- Bebop: Bud Powell transcriptionsâ€”right-hand single-note lines
+- Bebop: Bud Powell transcriptions—right-hand single-note lines
 - Modern: Bill Evans, Herbie Hancock approaches
 
 #### For Guitar
@@ -1592,16 +1492,10 @@ For each new concept:
 - Listening is as important as playing
 - Learn from recordings, not just books
 - Play with other musicians whenever possible
-- Be patientâ€”jazz mastery is a lifetime journey
+- Be patient—jazz mastery is a lifetime journey
 
 ---
 
 ## Conclusion
 
 [*To be written upon completion of all chapters - summarizing the journey through jazz, encouraging continued exploration, emphasizing jazz as living tradition*]
-
----
-
-*This is a first draft. Chapters 5-13 to be completed. Musical notation examples to be added to Appendix A. Spotify playlist links to be added to Appendix C. All sections marked [To be written] need completion.*
-
-**For the Author**: This structure provides a complete framework. You can now develop chapters 5-13 following the bebop model, expand the appendices with notation and links, and refine the existing content. The book is designed to be both educational progression and useful reference.
