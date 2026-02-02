@@ -226,11 +226,11 @@ The defining characteristic of ragtime is [syncopation](#syncopation)—placing 
 This creates a delightful tension: the pianist's left hand stays "straight" while the right hand "rags" the rhythm. Example: where you'd expect emphasis on beats 1 and 3, ragtime melodies accent the "and" of 1 and beat 2.
 
 #### Form
-Ragtime pieces typically use multi-strain form borrowed from marches:
+Ragtime pieces typically use [multi-strain form](#multi-strain-form) borrowed from marches:
 - Usually 3-4 distinct melodic sections (strains)
 - Each strain typically 16 bars
 - Pattern like: AA BB A CC DD
-- Key changes between sections (often to subdominant)
+- Key changes between sections (often to [subdominant](#subdominant))
 - Each strain repeated
 
 #### Stride Piano (*Theory Introduction*)
@@ -241,15 +241,15 @@ Ragtime pieces typically use multi-strain form borrowed from marches:
 This creates a strong, propulsive rhythm and fuller harmonic texture than earlier ragtime.
 
 #### Harmony
-- Primarily diatonic (staying within major/minor keys)
+- Primarily [diatonic](#diatonic) (staying within major/minor keys)
 - Standard classical progressions (I-IV-V-I)
 - Some [chromaticism](#chromaticism) for color
-- Secondary dominants for modulation between strains
+- [Secondary dominants](#secondary-dominants) for [modulation](#modulation) between strains
 - Simpler than jazz harmony that would follow
 
 #### Melody
 - Highly syncopated but clearly structured
-- Scalar passages and arpeggios
+- Scalar passages and [arpeggios](#arpeggios)
 - Ornamented with grace notes and turns
 - Designed to sound difficult but be playable
 - Vocal quality despite being instrumental
@@ -380,8 +380,8 @@ The [12-bar blues](#twelve-bar-blues) became a standard form:
 - Often adapted from popular songs or hymns
 
 #### Harmony
-- Mostly diatonic with simple I-IV-V progressions
-- Some secondary dominants
+- Mostly [diatonic](#diatonic) with simple I-IV-V progressions
+- Some [secondary dominants](#secondary-dominants)
 - Occasional [chromaticism](#chromaticism)
 - Simpler than bebop, but more adventurous than ragtime
 
@@ -1033,6 +1033,9 @@ New melodies composed over existing chord progressions. Common in bebop as way t
 
 ### D
 
+#### Diatonic
+Music that uses only the notes of a single major or minor scale without chromatic alterations. Diatonic harmony stays "within the key." Early jazz and ragtime were primarily diatonic; bebop introduced much more chromaticism.
+
 #### Diminished Chords
 Chords built from stacked minor 3rds. **Diminished 7th**: C-Eb-Gb-Bbb (enharmonic with A). Symmetrical—every note can function as root. Common as passing chords in bebop. Tense, unstable quality resolves to stable chords.
 
@@ -1056,6 +1059,9 @@ The most common chord progression in jazz. In the key of C: Dm7 - G7 - Cmaj7. De
 
 ### M
 
+#### Modulation
+Changing from one key to another within a piece. In ragtime, modulation typically occurs between strains, often moving to the subdominant (IV) key. Jazz uses various techniques for modulation including ii-V-I progressions and pivot chords.
+
 #### Modes
 Seven-note scales derived from the major scale, each starting on a different degree:
 - **Ionian**: Major scale (C-D-E-F-G-A-B)
@@ -1067,6 +1073,9 @@ Seven-note scales derived from the major scale, each starting on a different deg
 - **Locrian**: Diminished (B-C-D-E-F-G-A)
 
 Became the basis for modal jazz in the late 1950s-60s.
+
+#### Multi-Strain Form
+A compositional structure with multiple distinct melodic sections (strains), each typically 16 bars long. Borrowed from march form, it was the standard structure for ragtime pieces. Pattern example: AA BB A CC DD, where each letter represents a different melodic theme.
 
 ### R
 
@@ -1084,8 +1093,14 @@ Drummer's time-keeping pattern on the ride cymbal, typically: "ding-ding-a-ding,
 #### Scat Singing
 Vocal improvisation using nonsense syllables instead of lyrics. Allows voice to function like an instrument. Popularized by Louis Armstrong, mastered by Ella Fitzgerald, Sarah Vaughan, and others.
 
+#### Secondary Dominants
+Dominant seventh chords that temporarily tonicize a chord other than the tonic. For example, in C major, A7 is a secondary dominant (V7/ii) that resolves to Dm. Used in ragtime for modulation between strains and throughout jazz for harmonic color and movement.
+
 #### Stride Piano
 Left-hand piano technique where bass notes/octaves alternate with mid-register chords: bass (beats 1&3), chord (beats 2&4). Creates "striding" motion. Evolved from ragtime, prominent in swing era. Example: James P. Johnson, Fats Waller.
+
+#### Subdominant
+The fourth degree of a scale, or the chord built on that degree (IV). In C major, the subdominant is F. In ragtime, pieces often modulate to the subdominant key for contrasting strains. The subdominant creates a sense of moving "away" from the tonic without the strong pull of the dominant.
 
 #### Swing Rhythm
 The fundamental rhythmic feel of jazz: eighth notes played unevenly (long-short, roughly 2:1 ratio like a triplet). Creates propulsive, lilting quality. Not strictly quantifiable—internalized feel. Notated eighth notes are "swung" in performance.
