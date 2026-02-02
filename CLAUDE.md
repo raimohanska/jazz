@@ -90,7 +90,7 @@ Each style chapter MUST include these sections in order:
 - MUST be added at the end of each chapter, introduction, and conclusion
 - Format: `**Navigation:** [← Chapter X: Previous Chapter Title](chapter-XX-previous.md) | [Next: Chapter Y - Next Chapter Title →](chapter-YY-next.md)`
 - Use arrows: `←` for previous, `→` for next
-- For first chapter (after intro), only show next link
+- For introduction, only show next link
 - For last chapter (before conclusion), link to conclusion
 - For conclusion, only show previous link
 

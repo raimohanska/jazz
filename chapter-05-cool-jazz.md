@@ -38,5 +38,3 @@ parent: Chapters
 ---
 
 **Navigation:** [← Chapter 4: Bebop](chapter-04-bebop.md) | [Next: Chapter 6 - Hard Bop →](chapter-06-hard-bop.md)
-
-## 6. Hard Bop (1950s-1960s)
