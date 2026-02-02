@@ -1,4 +1,10 @@
-## About This Book
+---
+layout: default
+title: About This Book
+nav_order: 2
+---
+
+# About This Book
 
 ### Purpose: Your Journey Through Jazz
 

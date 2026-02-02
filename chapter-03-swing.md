@@ -1,4 +1,11 @@
-## 3. Swing & the Big Band Era (1930s-1940s)
+---
+layout: default
+title: "3. Swing & the Big Band Era (1930s-1940s)"
+nav_order: 3
+parent: Chapters
+---
+
+# 3. Swing & the Big Band Era (1930s-1940s)
 
 ### Historical Context
 

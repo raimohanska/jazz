@@ -1,4 +1,11 @@
-## 2. New Orleans Jazz & Dixieland (1910s-1930s)
+---
+layout: default
+title: "2. New Orleans Jazz & Dixieland (1910s-1930s)"
+nav_order: 2
+parent: Chapters
+---
+
+# 2. New Orleans Jazz & Dixieland (1910s-1930s)
 
 ### Historical Context
 

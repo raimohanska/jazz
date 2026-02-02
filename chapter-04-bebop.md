@@ -1,4 +1,11 @@
-## 4. Bebop (1940s-1950s)
+---
+layout: default
+title: "4. Bebop (1940s-1950s)"
+nav_order: 4
+parent: Chapters
+---
+
+# 4. Bebop (1940s-1950s)
 
 ### Historical Context
 
