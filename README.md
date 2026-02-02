@@ -39,6 +39,14 @@
 
 ---
 
+## View Online
+
+**📖 [Read the book online with interactive navigation](https://raimohanska.github.io/jazz/)**
+
+This repository is configured to automatically deploy to GitHub Pages with a mobile-friendly navigation system.
+
+---
+
 ## License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC-BY-4.0).

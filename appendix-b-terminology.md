@@ -1,4 +1,11 @@
-## Appendix B: Complete Terminology & Concepts Reference
+---
+layout: default
+title: "Appendix B: Terminology & Concepts"
+nav_order: 1
+parent: Appendices
+---
+
+# Appendix B: Complete Terminology & Concepts Reference
 
 ### A
 

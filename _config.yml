@@ -1,0 +1,48 @@
+title: Jazz Styles and Eras
+description: A Musician's Guide to Jazz History and Theory
+theme: just-the-docs
+
+url: https://raimohanska.github.io
+baseurl: /jazz
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Heading anchor links
+heading_anchors: true
+
+# Aux links (top right)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/raimohanska/jazz"
+
+# Footer
+footer_content: "Licensed under <a href=\"LICENSE\">CC-BY-4.0</a>. Copyright &copy; 2024-2026."
+
+# Color scheme
+color_scheme: light
+
+# Navigation structure
+nav_sort: manual
+
+# Enable copy code button
+enable_copy_code_button: true
+
+# Callouts
+callouts:
+  note:
+    color: blue
+  tip:
+    color: green
+  important:
+    color: yellow
+  warning:
+    color: red

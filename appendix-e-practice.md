@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Appendix E: Practice Suggestions"
+nav_order: 3
+parent: Appendices
+---
+
 # Appendix E: Practice Suggestions
 
 ## For All Musicians: Universal Approaches

@@ -1,4 +1,11 @@
-## 1. Pre-Jazz & Ragtime (1890s-1910s)
+---
+layout: default
+title: "1. Pre-Jazz & Ragtime (1890s-1910s)"
+nav_order: 1
+parent: Chapters
+---
+
+# 1. Pre-Jazz & Ragtime (1890s-1910s)
 
 ### Historical Context
 

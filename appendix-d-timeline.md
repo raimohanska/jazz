@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Appendix D: Historical Timeline"
+nav_order: 2
+parent: Appendices
+---
+
 # Appendix D: Historical Timeline
 
 ## 1890s-1910s: Pre-Jazz & Ragtime

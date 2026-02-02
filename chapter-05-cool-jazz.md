@@ -1,4 +1,11 @@
-## 5. Cool Jazz & West Coast Jazz (Late 1940s-1950s)
+---
+layout: default
+title: "5. Cool Jazz & West Coast Jazz (Late 1940s-1950s)"
+nav_order: 5
+parent: Chapters
+---
+
+# 5. Cool Jazz & West Coast Jazz (Late 1940s-1950s)
 
 ### Historical Context
 
