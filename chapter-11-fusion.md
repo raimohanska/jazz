@@ -10,3 +10,5 @@ parent: Chapters
 [*To be written: Miles Davis's Bitches Brew; Weather Report; Mahavishnu Orchestra; Return to Forever; Electric instruments; Rock rhythms; Odd meters; Funk influence; Virtuosity meets amplification; Commercial success and critical controversy*]
 
 ---
+
+**Navigation:** [← Chapter 10: Latin Jazz](chapter-10-latin-jazz.md) | [Next: Chapter 12 - Post-Bop & Modern Mainstream →](chapter-12-post-bop.md)

@@ -148,3 +148,5 @@ Armstrong's singing was as influential as his trumpet playing—natural, rhythmi
 By the late 1920s, jazz was evolving rapidly. Louis Armstrong's recordings with the Hot Five and Hot Seven demonstrated the power of individual solo improvisation. As jazz moved north and became more commercial, it would transform from New Orleans collective improvisation into the arranged big band swing of the 1930s. The intimate, polyphonic conversation of New Orleans jazz would give way to section-based arrangements and featured soloists, but the foundation—blues feeling, swing rhythm, and improvisational spirit—would remain.
 
 ---
+
+**Navigation:** [← Chapter 1: Pre-Jazz & Ragtime](chapter-01-ragtime.md) | [Next: Chapter 3 - Swing & the Big Band Era →](chapter-03-swing.md)

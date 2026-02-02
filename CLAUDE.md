@@ -23,6 +23,18 @@ When asked to write a chapter or section:
 3. **Link terminology** to Appendix B using `[term](appendix-b-terminology.md#term-name)` format
 4. **Match the tone**: authoritative but approachable, enthusiastic, practical
 5. **Use proper markdown formatting** consistent with existing chapters
+6. **Add navigation links** at the end of each chapter as specified in the chapter structure
+
+## Maintaining These Instructions
+
+**IMPORTANT**: When making changes that affect all chapters or the standard chapter format (such as adding navigation links, changing formatting conventions, adding new required sections, etc.), you MUST also update these instructions (CLAUDE.md) to reflect those changes. This ensures future content generation follows the same patterns.
+
+Examples of changes requiring instruction updates:
+- Adding new structural elements (like navigation links)
+- Changing formatting conventions
+- Adding or removing required sections
+- Modifying linking strategies
+- Updating voice and tone guidelines
 
 ---
 
@@ -68,7 +80,19 @@ Each style chapter MUST include these sections in order:
 
 ### Cultural Impact
 [Bullet points on broader influence beyond music]
+
+---
+
+**Navigation:** [← Chapter X: Previous Chapter Title](chapter-XX-previous.md) | [Next: Chapter Y - Next Chapter Title →](chapter-YY-next.md)
 ```
+
+**Navigation Links**: 
+- MUST be added at the end of each chapter, introduction, and conclusion
+- Format: `**Navigation:** [← Chapter X: Previous Chapter Title](chapter-XX-previous.md) | [Next: Chapter Y - Next Chapter Title →](chapter-YY-next.md)`
+- Use arrows: `←` for previous, `→` for next
+- For first chapter (after intro), only show next link
+- For last chapter (before conclusion), link to conclusion
+- For conclusion, only show previous link
 
 ### Terminology Linking Strategy
 

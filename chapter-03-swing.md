@@ -210,3 +210,5 @@ The transformation happened in the small group and jam session scene that had al
 These after-hours laboratories—direct descendants of the Kansas City jam session tradition—became the birthplace of bebop. The bebop revolution didn't emerge from nowhere; it grew from the improvisational spaces that swing-era musicians had cultivated all along.
 
 ---
+
+**Navigation:** [← Chapter 2: New Orleans Jazz & Dixieland](chapter-02-new-orleans.md) | [Next: Chapter 4 - Bebop →](chapter-04-bebop.md)

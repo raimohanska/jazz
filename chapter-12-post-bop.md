@@ -10,3 +10,5 @@ parent: Chapters
 [*To be written: Musicians integrating all previous approaches; Wayne Shorter, Herbie Hancock's acoustic work, Keith Jarrett; Sophisticated harmony; ECM sound; Standards interpretation continues*]
 
 ---
+
+**Navigation:** [← Chapter 11: Jazz Fusion & Jazz-Rock](chapter-11-fusion.md) | [Next: Chapter 13 - Contemporary Jazz →](chapter-13-contemporary.md)

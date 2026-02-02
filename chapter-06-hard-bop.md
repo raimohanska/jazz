@@ -10,3 +10,5 @@ parent: Chapters
 [*To be written: Full chapter following bebop model - hard bop as blues and gospel-infused bebop; East Coast scene; Art Blakey, Horace Silver, Clifford Brown; Funkier, more accessible than bebop; Soul-jazz connection; Organ trios*]
 
 ---
+
+**Navigation:** [← Chapter 5: Cool Jazz & West Coast Jazz](chapter-05-cool-jazz.md) | [Next: Chapter 7 - Modal Jazz →](chapter-07-modal-jazz.md)

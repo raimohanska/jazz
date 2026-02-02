@@ -131,3 +131,5 @@ While ragtime was primarily composed music played from written scores, it contai
 By the 1910s, musicians in New Orleans were taking ragtime's rhythmic innovations and adding something new: collective improvisation. The jazz age was beginning.
 
 ---
+
+**Navigation:** [← Introduction](introduction.md) | [Next: Chapter 2 - New Orleans Jazz →](chapter-02-new-orleans.md)
