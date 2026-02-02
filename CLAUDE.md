@@ -188,6 +188,9 @@ The following chapters contain placeholders (`[*To be written...*]`) that need t
 
 ### Appendix D: Historical Timeline
 - Expand timeline as chapters are completed
+### Appendix A: Musical Examples & Analysis
+- Add examples for each completed style chapter
+- Include notation references where helpful
 
 ### Conclusion
 - To be written upon completion of all chapters
