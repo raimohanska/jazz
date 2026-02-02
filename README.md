@@ -73,7 +73,7 @@ This book is designed to teach you, as a musician, the essentials of jazz—its 
 
 ### The Listening Experience: Your Spotify Playlist
 
-Music is meant to be heard. Throughout this book, you'll find references to essential recordings. These are compiled in a master Spotify playlist (see Appendix C) organized by chapter. 
+Music is meant to be heard. Throughout this book, you'll find references to essential recordings. These are compiled in a master Spotify playlist (see [Appendix C](#appendix-c-master-listening-guide)) organized by chapter. 
 
 **How to Listen**:
 1. **Active listening**: Focus on the specific elements discussed in each chapter
@@ -87,7 +87,7 @@ Music is meant to be heard. Throughout this book, you'll find references to esse
 - Read Introduction through Chapter 6 (Hard Bop) sequentially
 - Listen to at least 3 recordings per chapter
 - Study terminology as it's introduced
-- Practice suggestions in Appendix E for your instrument
+- Practice suggestions in [Appendix E](#appendix-e-practice-suggestions) for your instrument
 
 **Path 2: Experienced Musician New to Jazz**
 - Skim Chapters 1-3 for historical context
@@ -104,8 +104,8 @@ Music is meant to be heard. Throughout this book, you'll find references to esse
 **Path 4: Comprehensive Study**
 - Work through the entire book sequentially
 - Listen to complete playlist in order
-- Study musical examples in Appendix A
-- Apply practice suggestions from Appendix E
+- Study musical examples in [Appendix A](#appendix-a-musical-examples--analysis)
+- Apply practice suggestions from [Appendix E](#appendix-e-practice-suggestions)
 
 ---
 
@@ -1042,7 +1042,7 @@ Chords built from stacked minor 3rds. **Diminished 7th**: C-Eb-Gb-Bbb (enharmoni
 Continuous streams of eighth notes, the primary texture of bebop improvisation. Creates flowing, horn-like quality. Requires stamina and harmonic knowledge to sustain over fast-changing harmonies.
 
 #### Enclosures
-Melodic technique surrounding a target note from above and below. Can be chromatic, diatonic, or mixed. Creates the angular, non-linear quality of bebop melody. See Appendix A for notation examples.
+Melodic technique surrounding a target note from above and below. Can be chromatic, diatonic, or mixed. Creates the angular, non-linear quality of bebop melody. See [Appendix A](#appendix-a-musical-examples--analysis) for notation examples.
 
 ### F
 
@@ -1074,7 +1074,7 @@ Became the basis for modal jazz in the late 1950s-60s.
 Substituting different chords for the original harmony while maintaining (or enhancing) the melodic structure. Bebop musicians frequently reharmonized standards, adding ii-V progressions and altered chords. Continues to be important improvisational and compositional technique.
 
 #### Rhythm Changes
-Chord progression from "I Got Rhythm" (Gershwin). See Appendix A for full progression. Hundreds of bebop tunes use these changes. Essential learning for jazz musicians.
+Chord progression from "I Got Rhythm" (Gershwin). See [Appendix A](#appendix-a-musical-examples--analysis) for full progression. Hundreds of bebop tunes use these changes. Essential learning for jazz musicians.
 
 #### Ride Cymbal Pattern
 Drummer's time-keeping pattern on the ride cymbal, typically: "ding-ding-a-ding, ding-ding-a-ding" (swing rhythm on ride). Replaced bass drum as primary time-keeper in bebop. Creates lighter, more flexible swing feel.
@@ -1349,7 +1349,7 @@ For each new concept:
 **Technique Building**
 - Long tones in all registers
 - Scales through full range in all keys
-- Bebop scales (see Appendix B)
+- Bebop scales (see [Appendix B](#appendix-b-complete-terminology--concepts-reference))
 - Articulation studies (varying attacks)
 
 **Bebop Vocabulary Development**
