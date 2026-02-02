@@ -5,8 +5,8 @@ nav_order: 2
 parent: Appendices
 ---
 
-![Vintage jazz club interior with historic ambiance](https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?w=1200)
-*Photo by [Miti](https://unsplash.com/@mitisblues) on Unsplash - Tracing jazz through the decades*
+![Historic jazz venue atmosphere](https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=1200)
+*Photo by [Wes Hicks](https://unsplash.com/@sickhews) on Unsplash - Tracing jazz through the decades*
 
 # Appendix D: Historical Timeline
 

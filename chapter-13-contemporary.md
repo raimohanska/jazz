@@ -5,7 +5,7 @@ nav_order: 13
 parent: Chapters
 ---
 
-![Contemporary jazz musicians collaborating on stage](https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1200)
+![Modern jazz ensemble in contemporary performance](https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1200)
 *Photo by [Anika Huizinga](https://unsplash.com/@iam_anih) on Unsplash - Jazz today: diverse and ever-evolving*
 
 # 13. Contemporary Jazz (1980s-Present)

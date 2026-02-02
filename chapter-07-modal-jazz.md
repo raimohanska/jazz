@@ -5,8 +5,8 @@ nav_order: 7
 parent: Chapters
 ---
 
-![Saxophone player in contemplative moment](https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?w=1200)
-*Photo by [Miti](https://unsplash.com/@mitisblues) on Unsplash - Modal jazz's meditative exploration*
+![Jazz musician lost in contemplative performance](https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=1200)
+*Photo by [Larisa Birta](https://unsplash.com/@larisabirta) on Unsplash - Modal jazz's meditative exploration*
 
 # 7. Modal Jazz (Late 1950s-1960s)
 

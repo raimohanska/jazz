@@ -5,8 +5,8 @@ nav_order: 10
 parent: Chapters
 ---
 
-![Percussionist with congas in vibrant performance](https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1200)
-*Photo by [Toa Heftiba](https://unsplash.com/@heftiba) on Unsplash - Latin jazz's rhythmic fire and passion*
+![Congas and Latin percussion in action](https://images.unsplash.com/photo-1519683384663-a2e08023a7d7?w=1200)
+*Photo by [Dominik Scythe](https://unsplash.com/@drscythe) on Unsplash - Latin jazz's rhythmic fire and passion*
 
 # 10. Latin Jazz: Afro-Cuban & Brazilian (1940s-Present)
 

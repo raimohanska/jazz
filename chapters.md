@@ -5,8 +5,8 @@ nav_order: 4
 has_children: true
 ---
 
-![Musicians collaborating in rehearsal](https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=1200)
-*Photo by [Marcela Laskoski](https://unsplash.com/@marcelalaskoski) on Unsplash - The journey through jazz styles*
+![Jazz ensemble in full swing](https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=1200)
+*Photo by [Larisa Birta](https://unsplash.com/@larisabirta) on Unsplash - The journey through jazz styles*
 
 # Chapters
 

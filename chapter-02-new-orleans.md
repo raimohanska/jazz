@@ -5,8 +5,8 @@ nav_order: 2
 parent: Chapters
 ---
 
-![Brass band marching in New Orleans style parade](https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1200)
-*Photo by [Anika Huizinga](https://unsplash.com/@iam_anih) on Unsplash - The spirit of New Orleans jazz lives on*
+![Trumpet and trombone players in classic jazz pose](https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1200)
+*Photo by [Toa Heftiba](https://unsplash.com/@heftiba) on Unsplash - The spirit of New Orleans collective improvisation*
 
 # 2. New Orleans Jazz & Dixieland (1910s-1930s)
 

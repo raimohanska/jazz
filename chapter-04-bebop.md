@@ -5,8 +5,8 @@ nav_order: 4
 parent: Chapters
 ---
 
-![Close-up of trumpet player in intimate club setting](https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=1200)
-*Photo by [Yannis Papanastasopoulos](https://unsplash.com/@yannispapanastasopoulos) on Unsplash - Bebop intensity and virtuosity*
+![Trumpet in smoky jazz club atmosphere](https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=1200)
+*Photo by [Marcela Laskoski](https://unsplash.com/@marcelalaskoski) on Unsplash - Bebop's revolutionary sound*
 
 # 4. Bebop (1940s-1950s)
 
