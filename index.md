@@ -4,6 +4,9 @@ title: Home
 nav_order: 1
 ---
 
+![Jazz ensemble performing live](https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?w=1200)
+*Photo by [Miti](https://unsplash.com/@mitisblues) on Unsplash - Live jazz performance*
+
 # JAZZ STYLES AND ERAS: A MUSICIAN'S GUIDE
 
 This is a comprehensive guide to jazz styles and eras, written for musicians who want to understand the evolution of jazz from its roots to the present day. Each chapter focuses on a specific style or era, providing historical context, musical analysis, key artists, and essential recordings.

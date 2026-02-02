@@ -5,6 +5,9 @@ nav_order: 2
 parent: Appendices
 ---
 
+![Vintage jazz club interior with historic ambiance](https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?w=1200)
+*Photo by [Miti](https://unsplash.com/@mitisblues) on Unsplash - Tracing jazz through the decades*
+
 # Appendix D: Historical Timeline
 
 ## 1890s-1910s: Pre-Jazz & Ragtime

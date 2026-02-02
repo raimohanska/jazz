@@ -5,6 +5,9 @@ nav_order: 1
 parent: Appendices
 ---
 
+![Close-up of musician's hands on piano keys](https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=1200)
+*Photo by [Wes Hicks](https://unsplash.com/@sickhews) on Unsplash - Understanding the language of jazz*
+
 # Appendix B: Complete Terminology & Concepts Reference
 
 ### A

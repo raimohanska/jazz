@@ -4,6 +4,9 @@ title: About This Book
 nav_order: 2
 ---
 
+![Saxophone player in spotlight](https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=1200)
+*Photo by [Yannis Papanastasopoulos](https://unsplash.com/@yannispapanastasopoulos) on Unsplash - Soulful solo performance*
+
 # About This Book
 
 ### Purpose: Your Journey Through Jazz

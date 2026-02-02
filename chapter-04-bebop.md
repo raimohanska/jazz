@@ -5,6 +5,9 @@ nav_order: 4
 parent: Chapters
 ---
 
+![Close-up of trumpet player in intimate club setting](https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=1200)
+*Photo by [Yannis Papanastasopoulos](https://unsplash.com/@yannispapanastasopoulos) on Unsplash - Bebop intensity and virtuosity*
+
 # 4. Bebop (1940s-1950s)
 
 ### Historical Context

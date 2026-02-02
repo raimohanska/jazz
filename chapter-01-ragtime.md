@@ -5,6 +5,9 @@ nav_order: 1
 parent: Chapters
 ---
 
+![Vintage piano in historic venue](https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=1200)
+*Photo by [Wes Hicks](https://unsplash.com/@sickhews) on Unsplash - The ragtime era begins at the piano*
+
 # 1. Pre-Jazz & Ragtime (1890s-1910s)
 
 ### Historical Context
