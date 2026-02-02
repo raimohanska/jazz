@@ -1,12 +1,13 @@
-# Claude Instructions for Jazz Styles & Eras Book
+# AI Assistant Instructions for Jazz Styles & Eras Book
 
-This file provides instructions for AI assistants when generating or completing content for the Jazz Styles and Eras book.
+This file provides instructions for AI assistants (Claude, GitHub Copilot, etc.) when generating or completing content for the Jazz Styles and Eras book.
 
 ## Project Structure
 
 - **README.md** - The main book content (jazz-styles-and-eras)
 - **LICENSE** - CC-BY-4.0 license
-- **CLAUDE.md** - This file (generation instructions)
+- **CLAUDE.md** - This file (AI assistant generation instructions)
+- **.github/copilot-instructions.md** - Symlink to CLAUDE.md (used by GitHub Copilot)
 
 ## Quick Start for Content Generation
 
