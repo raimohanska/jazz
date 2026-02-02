@@ -184,10 +184,6 @@ The following chapters contain placeholders (`[*To be written...*]`) that need t
 - Add examples for each completed style chapter
 - Include notation references where helpful
 
-### Appendix C: Master Listening Guide
-- Add listening guide tables for Chapters 5-13 (follow format of Chapters 1-4)
-- Format: `| Track | Artist | Year | What to Listen For |`
-
 ### Appendix D: Historical Timeline
 - Expand timeline as chapters are completed
 

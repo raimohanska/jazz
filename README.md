@@ -34,7 +34,6 @@
 ### Appendices
 - [Appendix A: Musical Examples & Analysis](#appendix-a-musical-examples--analysis)
 - [Appendix B: Complete Terminology & Concepts Reference](#appendix-b-complete-terminology--concepts-reference)
-- [Appendix C: Master Listening Guide](#appendix-c-master-listening-guide)
 - [Appendix D: Historical Timeline](#appendix-d-historical-timeline)
 - [Appendix E: Practice Suggestions](#appendix-e-practice-suggestions)
 
@@ -71,9 +70,9 @@ This book is designed to teach you, as a musician, the essentials of jazz—its 
 
 **As a Reference**: Use the appendices for quick lookups of terminology, chord progressions, or to find specific recordings.
 
-### The Listening Experience: Your Spotify Playlist
+### The Listening Experience
 
-Music is meant to be heard. Throughout this book, you'll find references to essential recordings. These are compiled in a master Spotify playlist (see [Appendix C](#appendix-c-master-listening-guide)) organized by chapter. 
+Music is meant to be heard. Each chapter includes an **Essential Recordings** section with annotated recommendations—these are the tracks that define each style and era. Seek them out on your preferred streaming service or in physical formats.
 
 **How to Listen**:
 1. **Active listening**: Focus on the specific elements discussed in each chapter
@@ -1181,123 +1180,6 @@ Bass line that:
 - Propels the rhythm forward
 
 Standard in swing and all jazz after. Creates the four-beat feel essential to jazz rhythm.
-
----
-
-## Appendix C: Master Listening Guide
-
-*Note: Spotify links will be added. Check availability as some recordings may not be on Spotify.*
-
-### Introduction: What Is Jazz?
-
-**Essential Overview Listening (for newcomers)**
-1. Louis Armstrong - "West End Blues" (1928) - Where individual improvisation becomes central
-2. Duke Ellington - "Ko-Ko" (1940) - Composition and improvisation in perfect balance  
-3. Charlie Parker - "Ko-Ko" (1945) - Bebop revolution
-4. Miles Davis - "So What" (1959) - Modal jazz simplicity
-5. John Coltrane - "Acknowledgement" (1965) - Spiritual searching
-6. Weather Report - "Birdland" (1977) - Fusion energy
-
-### Chapter 1: Pre-Jazz & Ragtime
-
-| Track | Artist | Year | What to Listen For |
-|-------|--------|------|-------------------|
-| Maple Leaf Rag | Scott Joplin | 1899 | Piano: syncopated right hand vs. steady left hand; formal structure; crisp articulation |
-| The Entertainer | Scott Joplin | 1902 | Memorable melody; balance between accessibility and sophistication |
-| Frog Legs Rag | James Scott | 1906 | Harmonic sophistication; smooth modulations between strains |
-| Solace | Scott Joplin | 1909 | Slower tempo showing ragtime's lyrical side; tango influence |
-| Ragtime Dance | Scott Joplin | 1902 | Connection to actual dance; rhythmic vitality |
-| Sensation Rag | Joseph Lamb | 1908 | Complex compositional development; Lamb's refined approach |
-| Joplin's Maple Leaf Rag | Jelly Roll Morton | 1938 | Comparison to original; Morton's swinging, improvised approach bridges ragtime and jazz |
-| Carolina Shout | James P. Johnson | 1921 | Stride piano evolution; test piece for jazz pianists; increased harmonic complexity |
-
-**Listening Notes**:
-- Compare Joplin's composed ragtime to Morton's looser, jazz-influenced version
-- Notice how stride piano (Johnson) expands ragtime's rhythmic foundation
-- Listen for the piano's "oom-pah" left hand pattern and how it evolved
-- Pay attention to formal structure - ragtime's classical influences
-
-### Chapter 2: New Orleans Jazz & Dixieland
-
-| Track | Artist | Year | What to Listen For |
-|-------|--------|------|-------------------|
-| Dippermouth Blues | King Oliver's Creole Jazz Band | 1923 | Collective improvisation; Oliver's muted cornet solo (repeated three times); two-beat feel |
-| West End Blues | Louis Armstrong | 1928 | Revolutionary opening cadenza; Armstrong's melodic sophistication; shift toward solo virtuosity |
-| Potato Head Blues | Louis Armstrong's Hot Seven | 1927 | Stop-time breaks; Armstrong's rhythmic genius; integration of blues and jazz |
-| Black Bottom Stomp | Jelly Roll Morton's Red Hot Peppers | 1926 | Balance of composition and improvisation; Morton's arranged ensemble approach |
-| Livery Stable Blues | Original Dixieland Jazz Band | 1917 | First jazz recording (historical significance); collective improvisation; novelty elements |
-| Dead Man Blues | Jelly Roll Morton's Red Hot Peppers | 1926 | Sophisticated arrangement; Morton's compositional gifts; tonal colors |
-| Muskrat Ramble | Louis Armstrong's Hot Five | 1926 | Classic New Orleans structure and spirit; joyful ensemble work |
-| St. Louis Blues | Bessie Smith w/ Louis Armstrong | 1925 | Blues vocalist with jazz accompaniment; call-and-response; Armstrong's obbligato |
-
-**Listening Notes**:
-- Notice three distinct melodic voices: trumpet (lead), clarinet (upper countermelody), trombone (bass line)
-- Hear how collective improvisation creates coherent ensemble sound despite no written parts
-- Compare early recordings (ODJB, Oliver) to later Armstrong—the shift toward individual soloist
-- Listen for two-beat feel (emphasis on beats 1 and 3)
-- Observe how blues and jazz integrate (particularly in Smith/Armstrong collaboration)
-
-### Chapter 3: Swing & the Big Band Era
-
-**Big Band Recordings**
-
-| Track | Artist | Year | What to Listen For |
-|-------|--------|------|-------------------|
-| One O'Clock Jump | Count Basie Orchestra | 1937 | Riff-based construction; the famous Basie rhythm section; blues foundation; building excitement |
-| Sing, Sing, Sing | Benny Goodman Orchestra | 1937 | Gene Krupa's extended drum feature; call-and-response between sections; shout chorus climax |
-| Take the 'A' Train | Duke Ellington Orchestra | 1941 | Billy Strayhorn's composition; perfect blend of sections; sophisticated Ellington sound |
-| In the Mood | Glenn Miller Orchestra | 1939 | Commercial swing perfection; memorable riff; dynamic build |
-| Ko-Ko | Duke Ellington Orchestra | 1940 | Ellington's advanced composition; nearly atonal sections; pushing boundaries |
-| A-Tisket, A-Tasket | Ella Fitzgerald w/ Chick Webb | 1938 | Joyful vocal swing; Ella's clarity and swing feel; arranged backgrounds |
-| Cherokee | Charlie Barnet Orchestra | 1939 | Complex harmony; foreshadows bebop; up-tempo excitement |
-
-**Small Group Recordings**
-
-| Track | Artist | Year | What to Listen For |
-|-------|--------|------|-------------------|
-| Body and Soul | Coleman Hawkins | 1939 | Ballad improvisation; harmonic sophistication; saxophone as serious solo voice |
-| Lester Leaps In | Kansas City Seven | 1939 | Lester Young's cool, melodic approach; small group drawn from Basie orchestra |
-| Strange Fruit | Billie Holiday | 1939 | Powerful protest song with small combo; Holiday's interpretive genius |
-| Solo Flight | Benny Goodman Sextet | 1941 | Charlie Christian's revolutionary electric guitar; fluid lines anticipating bebop |
-| After You've Gone | Benny Goodman Trio | 1935 | Integrated small group (Goodman, Wilson, Krupa); intimate swing improvisation |
-
-**Listening Notes**:
-- **Big bands**: Notice arranged section writing—saxophones, trumpets, trombones playing composed parts; call-and-response between sections
-- **Small groups**: Hear the greater space for improvisation; individual voices more prominent
-- Hear the [four-beat feel](#four-beat-feel) created by [walking bass](#walking-bass) and steady swing rhythm in both contexts
-- Compare Charlie Christian's guitar lines to horn players—he made guitar a lead voice
-- Notice how vocalists (Holiday, Fitzgerald) phrase differently in big band vs. small group settings
-
-### Chapter 4: Bebop
-
-| Track | Artist | Year | What to Listen For |
-|-------|--------|------|-------------------|
-| Ko-Ko | Charlie Parker | 1945 | Blazing fast tempo; Parker's incredible facility; [contrafact](#contrafacts) on "Cherokee" changes |
-| Salt Peanuts | Dizzy Gillespie | 1945 | Playful melody; virtuosic trumpet; bebop joy and humor despite complexity |
-| A Night in Tunisia | Dizzy Gillespie | 1946 | Afro-Cuban rhythmic influence; exotic harmony; memorable composed melody |
-| Ornithology | Charlie Parker | 1946 | Bebop melody over "How High the Moon" changes; eighth-note lines; Parker's flow |
-| 'Round Midnight | Thelonious Monk | 1947 | Haunting ballad; complex harmony; Monk's unique voice; most-recorded jazz composition |
-| Donna Lee | Charlie Parker | 1947 | Intricate melody demonstrating bebop language; precise eighth-note lines; harmonic sophistication |
-| Anthropology | Parker & Gillespie | 1948 | Classic rhythm changes; two masters trading ideas; contrapuntal interaction |
-| Un Poco Loco | Bud Powell | 1951 | Piano trio bebop; Powell's single-note right-hand lines; rhythmic complexity |
-| Cherokee | Charlie Parker (live) | 1942 | The original changes Parker used for "Ko-Ko"; hear the transformation |
-| Groovin' High | Dizzy Gillespie | 1945 | Bebop [reharmonization](#reharmonization) of "Whispering"; Gillespie's trumpet mastery |
-
-**Listening Notes**:
-- Notice the dramatic tempo increase from swing (often 200+ BPM)
-- Hear continuous eighth-note improvisation outlining complex chord changes
-- Listen for chromatic [approach notes](#approach-notes) and [enclosures](#enclosures) in melodies
-- Observe [ride cymbal](#ride-cymbal-pattern) keeping time (not bass drum as in swing)
-- Notice small group format—no arranged big band sections
-- Listen for bebop's characteristic: unison melody → solos → unison melody structure
-- Hear how soloists "play the changes"—improvisation clearly outlining harmonic progression
-- Compare [contrafacts](#contrafacts) to original songs (if you know them)—same harmony, new melody
-
----
-
-### Chapters 5-13
-
-[*Listening guides to be completed when chapters are written*]
 
 ---
 
