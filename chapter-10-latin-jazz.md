@@ -11,4 +11,4 @@ parent: Chapters
 
 ---
 
-**Navigation:** [← Chapter 9: Soul Jazz & Groove-Based Jazz](chapter-09-soul-jazz.md) | [Next: Chapter 11 - Jazz Fusion & Jazz-Rock →](chapter-11-fusion.md)
+**Navigation:** [← Chapter 9 - Soul Jazz & Groove-Based Jazz](chapter-09-soul-jazz.md) | [Next: Chapter 11 - Jazz Fusion & Jazz-Rock →](chapter-11-fusion.md)

@@ -11,4 +11,4 @@ parent: Chapters
 
 ---
 
-**Navigation:** [← Chapter 7: Modal Jazz](chapter-07-modal-jazz.md) | [Next: Chapter 9 - Soul Jazz & Groove-Based Jazz →](chapter-09-soul-jazz.md)
+**Navigation:** [← Chapter 7 - Modal Jazz](chapter-07-modal-jazz.md) | [Next: Chapter 9 - Soul Jazz & Groove-Based Jazz →](chapter-09-soul-jazz.md)

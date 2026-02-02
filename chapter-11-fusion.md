@@ -11,4 +11,4 @@ parent: Chapters
 
 ---
 
-**Navigation:** [← Chapter 10: Latin Jazz](chapter-10-latin-jazz.md) | [Next: Chapter 12 - Post-Bop & Modern Mainstream →](chapter-12-post-bop.md)
+**Navigation:** [← Chapter 10 - Latin Jazz](chapter-10-latin-jazz.md) | [Next: Chapter 12 - Post-Bop & Modern Mainstream →](chapter-12-post-bop.md)

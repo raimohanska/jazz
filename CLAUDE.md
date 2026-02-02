@@ -83,12 +83,13 @@ Each style chapter MUST include these sections in order:
 
 ---
 
-**Navigation:** [← Chapter X: Previous Chapter Title](chapter-XX-previous.md) | [Next: Chapter Y - Next Chapter Title →](chapter-YY-next.md)
+**Navigation:** [← Chapter X - Previous Chapter Title](chapter-XX-previous.md) | [Next: Chapter Y - Next Chapter Title →](chapter-YY-next.md)
 ```
 
 **Navigation Links**: 
 - MUST be added at the end of each chapter, introduction, and conclusion
-- Format: `**Navigation:** [← Chapter X: Previous Chapter Title](chapter-XX-previous.md) | [Next: Chapter Y - Next Chapter Title →](chapter-YY-next.md)`
+- Format: `**Navigation:** [← Chapter X - Previous Chapter Title](chapter-XX-previous.md) | [Next: Chapter Y - Next Chapter Title →](chapter-YY-next.md)`
+- Use hyphens (`-`) to separate chapter number from title consistently in both previous and next links
 - Use arrows: `←` for previous, `→` for next
 - For introduction, only show next link
 - For last chapter (before conclusion), link to conclusion

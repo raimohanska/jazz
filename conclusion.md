@@ -10,4 +10,4 @@ nav_order: 18
 
 ---
 
-**Navigation:** [← Chapter 13: Contemporary Jazz](chapter-13-contemporary.md)
+**Navigation:** [← Chapter 13 - Contemporary Jazz](chapter-13-contemporary.md)
