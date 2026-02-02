@@ -4,7 +4,12 @@ This file provides instructions for AI assistants (Claude, GitHub Copilot, etc.)
 
 ## Project Structure
 
-- **README.md** - The main book content (jazz-styles-and-eras)
+- **README.md** - Table of contents and navigation
+- **about.md** - About This Book section
+- **introduction.md** - Introduction: What Is Jazz?
+- **chapter-XX-*.md** - Individual chapter files (13 chapters)
+- **appendix-*.md** - Appendix files (B only - A was integrated into Chapter 4)
+- **conclusion.md** - Conclusion section
 - **LICENSE** - CC-BY-4.0 license
 - **CLAUDE.md** - This file (AI assistant generation instructions)
 - **.github/copilot-instructions.md** - Symlink to CLAUDE.md (used by GitHub Copilot)
@@ -13,9 +18,9 @@ This file provides instructions for AI assistants (Claude, GitHub Copilot, etc.)
 
 When asked to write a chapter or section:
 
-1. **Read the existing chapters first** (Chapters 1-4 in README.md) to understand the established style, depth, and formatting
+1. **Read the existing chapters first** (chapter-01-ragtime.md through chapter-04-bebop.md) to understand the established style, depth, and formatting
 2. **Follow the chapter structure** outlined below
-3. **Link terminology** to Appendix B using `[term](#term-name)` format
+3. **Link terminology** to Appendix B using `[term](appendix-b-terminology.md#term-name)` format
 4. **Match the tone**: authoritative but approachable, enthusiastic, practical
 5. **Use proper markdown formatting** consistent with existing chapters
 
@@ -63,17 +68,11 @@ Each style chapter MUST include these sections in order:
 
 ### Cultural Impact
 [Bullet points on broader influence beyond music]
-
-### Musical Examples & Practice (Optional but Recommended)
-[Concrete examples of chord progressions, scales, techniques specific to the style]
-[Include code blocks for chord progressions]
-[Provide practice patterns and examples from recordings]
-[This section integrates directly into chapters rather than being in an appendix]
 ```
 
 ### Terminology Linking Strategy
 
-- Use `[term](#term-name)` format for first instance of a term in each chapter
+- Use `[term](appendix-b-terminology.md#term-name)` format for first instance of a term in each chapter
 - Ensure the term exists in Appendix B before linking
 - If introducing a new term, add its definition to Appendix B (alphabetically organized)
 - Common linked terms: syncopation, swing rhythm, blue notes, chromaticism, walking bass, comping, etc.
@@ -187,11 +186,8 @@ The following chapters contain placeholders (`[*To be written...*]`) that need t
 
 ## Appendices Requiring Completion
 
-### Appendix D: Historical Timeline
-- Expand timeline as chapters are completed
-### Appendix A: Musical Examples & Analysis
-- Add examples for each completed style chapter
-- Include notation references where helpful
+### Appendix B: Complete Terminology & Concepts Reference
+- Continue to expand as new terms are introduced in chapters
 
 ### Conclusion
 - To be written upon completion of all chapters
@@ -203,7 +199,7 @@ The following chapters contain placeholders (`[*To be written...*]`) that need t
 
 ## Reference: Existing Chapter Examples
 
-See Chapters 1-4 in README.md for examples of:
+See chapter-01-ragtime.md through chapter-04-bebop.md for examples of:
 - Appropriate depth and length (~800-1200 words per chapter)
 - How to balance history, analysis, and practical information
 - Proper formatting and linking conventions
