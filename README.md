@@ -34,8 +34,6 @@
 ### Appendices
 - [Appendix A: Musical Examples & Analysis](#appendix-a-musical-examples--analysis)
 - [Appendix B: Complete Terminology & Concepts Reference](#appendix-b-complete-terminology--concepts-reference)
-- [Appendix D: Historical Timeline](appendix-d-timeline.md)
-- [Appendix E: Practice Suggestions](appendix-e-practice.md)
 
 ---
 
@@ -86,7 +84,6 @@ Music is meant to be heard. Each chapter includes an **Essential Recordings** se
 - Read Introduction through Chapter 6 (Hard Bop) sequentially
 - Listen to at least 3 recordings per chapter
 - Study terminology as it's introduced
-- Practice suggestions in [Appendix E](appendix-e-practice.md) for your instrument
 
 **Path 2: Experienced Musician New to Jazz**
 - Skim Chapters 1-3 for historical context
@@ -104,7 +101,6 @@ Music is meant to be heard. Each chapter includes an **Essential Recordings** se
 - Work through the entire book sequentially
 - Listen to complete playlist in order
 - Study musical examples in [Appendix A](#appendix-a-musical-examples--analysis)
-- Apply practice suggestions from [Appendix E](appendix-e-practice.md)
 
 ---
 
@@ -1180,18 +1176,6 @@ Bass line that:
 - Propels the rhythm forward
 
 Standard in swing and all jazz after. Creates the four-beat feel essential to jazz rhythm.
-
----
-
-## Appendix D: Historical Timeline
-
-See [appendix-d-timeline.md](appendix-d-timeline.md)
-
----
-
-## Appendix E: Practice Suggestions
-
-See [appendix-e-practice.md](appendix-e-practice.md)
 
 ---
 
