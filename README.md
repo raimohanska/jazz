@@ -498,11 +498,29 @@ The [swing rhythm](#swing-rhythm) that gives the era its name is a specific rhyt
 #### Big Band Instrumentation
 Standard big band (circa 1940):
 - **Saxophones**: 5 players (2 altos, 2 tenors, 1 baritone)
-- **Trumpets**: 4 players  
+- **Trumpets**: 4 players
 - **Trombones**: 3-4 players (sometimes including bass trombone)
 - **Rhythm Section**: Piano, guitar, bass, drums
 
 Total: 15-18 musicians
+
+#### Small Groups & The Jam Session Scene
+
+While big bands dominated commercially, small group jazz thrived in parallel—and proved crucial to jazz's evolution:
+
+**Swing-Era Small Combos**
+Many big band leaders also led small groups where improvisation took center stage:
+- **Benny Goodman Trio/Quartet/Sextet** - Featured Teddy Wilson (piano), Lionel Hampton (vibes), and Charlie Christian (guitar). These racially integrated groups emphasized extended improvisation over arrangements.
+- **Nat King Cole Trio** - Piano, guitar, bass format that influenced countless trios
+- **Kansas City Seven** - Count Basie's small group drawn from his orchestra
+
+**The Jam Session Culture**
+Away from the bandstand, a vibrant jam session scene fostered experimentation:
+- **Kansas City** - All-night sessions at clubs like the Reno Club; "cutting contests" where musicians competed; birthplace of head arrangements and riff-based swing
+- **52nd Street ("Swing Street")** - New York's block of intimate jazz clubs between Fifth and Seventh Avenues; small combos in venues like the Onyx, Famous Door, and Three Deuces
+- **After-hours sessions** - Musicians gathered after commercial gigs to play without constraints; Minton's Playhouse in Harlem became legendary by the early 1940s
+
+These small group and jam session contexts kept improvisation at jazz's center and provided the laboratory where bebop would emerge.
 
 #### Section Writing & Arrangement (*Theory Introduction*)
 [Arrangers](#arranging) wrote parts creating distinct textures:
@@ -562,6 +580,12 @@ First great jazz saxophonist. Developed full, harmonically sophisticated approac
 **Lester Young (1909-1959)** - Tenor Saxophone
 Cool, light tone contrasting with Hawkins's robust sound. Melodic, lyrical approach influenced all who followed, especially Charlie Parker. Played with Count Basie.
 
+**Charlie Christian (1916-1942)** - Electric Guitar
+Revolutionized jazz guitar by amplifying it to a solo voice equal to horns. Member of Benny Goodman's sextet. After hours at Minton's Playhouse, he jammed with young beboppers, helping forge the new style. Died of tuberculosis at 25, but his influence was immense.
+
+**Teddy Wilson (1912-1986)** - Piano
+Elegant, refined pianist who brought classical touch to swing. Member of Benny Goodman's groundbreaking integrated small groups. Also led acclaimed small group sessions with Billie Holiday.
+
 **Billie Holiday (1915-1959)** - Vocals
 Most influential jazz singer. Incredibly subtle phrasing, treating voice as an instrument. Turned pop songs into jazz art through her interpretive genius.
 
@@ -594,16 +618,21 @@ The swing era was jazz's most vocal-friendly period. Singers were featured membe
 
 ### Essential Recordings
 
+**Big Band**
 1. **"One O'Clock Jump"** - Count Basie Orchestra (1937) - Definitive riff-based swing; the Basie rhythm section
 2. **"Sing, Sing, Sing"** - Benny Goodman Orchestra (1937) - Extended drum feature by Gene Krupa; peak swing excitement
 3. **"Take the 'A' Train"** - Duke Ellington Orchestra (1941) - Ellington's theme song; Billy Strayhorn composition
 4. **"In the Mood"** - Glenn Miller Orchestra (1939) - Most commercially successful swing recording
-5. **"Body and Soul"** - Coleman Hawkins (1939) - Saxophone ballad improvisation at its finest
-6. **"Lester Leaps In"** - Count Basie featuring Lester Young (1939) - Young's cool, melodic approach
-7. **"Ko-Ko"** - Duke Ellington Orchestra (1940) - Adventurous, nearly atonal Ellington composition
-8. **"Strange Fruit"** - Billie Holiday (1939) - Haunting protest song; Holiday's interpretive power
-9. **"A-Tisket, A-Tasket"** - Ella Fitzgerald with Chick Webb (1938) - Joyful swing vocal
-10. **"Cherokee"** - Charlie Barnet Orchestra (1939) - Complex harmony that beboppers would mine
+5. **"Ko-Ko"** - Duke Ellington Orchestra (1940) - Adventurous, nearly atonal Ellington composition
+6. **"A-Tisket, A-Tasket"** - Ella Fitzgerald with Chick Webb (1938) - Joyful swing vocal
+7. **"Cherokee"** - Charlie Barnet Orchestra (1939) - Complex harmony that beboppers would mine
+
+**Small Group**
+8. **"Body and Soul"** - Coleman Hawkins (1939) - Saxophone ballad improvisation at its finest; just tenor and rhythm section
+9. **"Lester Leaps In"** - Kansas City Seven (1939) - Lester Young's cool, melodic approach in Basie small group
+10. **"Strange Fruit"** - Billie Holiday (1939) - Haunting protest song with small combo; Holiday's interpretive power
+11. **"Solo Flight"** - Benny Goodman Sextet feat. Charlie Christian (1941) - Electric guitar revolution; Christian's fluid bebop-anticipating lines
+12. **"After You've Gone"** - Benny Goodman Trio (1935) - Goodman, Teddy Wilson, Gene Krupa; integrated jazz at its swinging best
 
 ### Cultural Impact
 
@@ -618,13 +647,15 @@ The swing era was jazz's most vocal-friendly period. Singers were featured membe
 
 ### The Seeds of Change
 
-By the mid-1940s, younger musicians were growing restless with swing's constraints:
-- Arrangements felt restrictive to creative players
-- Commercial demands limited experimentation
-- Danceable tempos and singable melodies felt limiting
+By the mid-1940s, younger musicians were growing restless with swing's commercial constraints:
+- Big band arrangements felt restrictive to creative players
+- Commercial demands (danceable tempos, singable melodies) limited experimentation
 - Musicians wanted more harmonic and rhythmic complexity
+- The wartime economy made large bands increasingly impractical
 
-In after-hours jam sessions, players like Charlie Parker, Dizzy Gillespie, and Thelonious Monk were experimenting with faster tempos, complex harmonies, and a new approach. The bebop revolution was beginning.
+The transformation happened in the small group and jam session scene that had always existed alongside big bands. At **Minton's Playhouse** and **Monroe's Uptown House** in Harlem, musicians like Charlie Parker, Dizzy Gillespie, Thelonious Monk, and Kenny Clarke gathered after their regular gigs to experiment. Charlie Christian, before his early death in 1942, was a regular at these sessions, his advanced harmonic ideas bridging swing and what came next.
+
+These after-hours laboratories—direct descendants of the Kansas City jam session tradition—became the birthplace of bebop. The bebop revolution didn't emerge from nowhere; it grew from the improvisational spaces that swing-era musicians had cultivated all along.
 
 ---
 
@@ -1208,26 +1239,34 @@ Standard in swing and all jazz after. Creates the four-beat feel essential to ja
 
 ### Chapter 3: Swing & the Big Band Era
 
+**Big Band Recordings**
+
 | Track | Artist | Year | What to Listen For |
 |-------|--------|------|-------------------|
 | One O'Clock Jump | Count Basie Orchestra | 1937 | Riff-based construction; the famous Basie rhythm section; blues foundation; building excitement |
 | Sing, Sing, Sing | Benny Goodman Orchestra | 1937 | Gene Krupa's extended drum feature; call-and-response between sections; shout chorus climax |
 | Take the 'A' Train | Duke Ellington Orchestra | 1941 | Billy Strayhorn's composition; perfect blend of sections; sophisticated Ellington sound |
 | In the Mood | Glenn Miller Orchestra | 1939 | Commercial swing perfection; memorable riff; dynamic build |
-| Body and Soul | Coleman Hawkins | 1939 | Ballad improvisation; harmonic sophistication; saxophone as serious solo voice |
-| Lester Leaps In | Count Basie feat. Lester Young | 1939 | Lester Young's cool, melodic approach; influence on later styles; relaxed phrasing |
 | Ko-Ko | Duke Ellington Orchestra | 1940 | Ellington's advanced composition; nearly atonal sections; pushing boundaries |
-| Strange Fruit | Billie Holiday | 1939 | Powerful protest song; Holiday's interpretive genius; emotional depth |
 | A-Tisket, A-Tasket | Ella Fitzgerald w/ Chick Webb | 1938 | Joyful vocal swing; Ella's clarity and swing feel; arranged backgrounds |
 | Cherokee | Charlie Barnet Orchestra | 1939 | Complex harmony; foreshadows bebop; up-tempo excitement |
 
+**Small Group Recordings**
+
+| Track | Artist | Year | What to Listen For |
+|-------|--------|------|-------------------|
+| Body and Soul | Coleman Hawkins | 1939 | Ballad improvisation; harmonic sophistication; saxophone as serious solo voice |
+| Lester Leaps In | Kansas City Seven | 1939 | Lester Young's cool, melodic approach; small group drawn from Basie orchestra |
+| Strange Fruit | Billie Holiday | 1939 | Powerful protest song with small combo; Holiday's interpretive genius |
+| Solo Flight | Benny Goodman Sextet | 1941 | Charlie Christian's revolutionary electric guitar; fluid lines anticipating bebop |
+| After You've Gone | Benny Goodman Trio | 1935 | Integrated small group (Goodman, Wilson, Krupa); intimate swing improvisation |
+
 **Listening Notes**:
-- Notice arranged section writing—saxophones, trumpets, trombones playing composed parts
-- Hear the [four-beat feel](#four-beat-feel) created by [walking bass](#walking-bass) and steady swing rhythm
-- Observe call-and-response between sections (typical swing arrangement technique)
-- Listen for featured soloists emerging from ensemble texture
-- Compare rhythm section feel to New Orleans jazz—more propulsive, evenly swinging
-- Notice how vocalists integrate with instrumental arrangements
+- **Big bands**: Notice arranged section writing—saxophones, trumpets, trombones playing composed parts; call-and-response between sections
+- **Small groups**: Hear the greater space for improvisation; individual voices more prominent
+- Hear the [four-beat feel](#four-beat-feel) created by [walking bass](#walking-bass) and steady swing rhythm in both contexts
+- Compare Charlie Christian's guitar lines to horn players—he made guitar a lead voice
+- Notice how vocalists (Holiday, Fitzgerald) phrase differently in big band vs. small group settings
 
 ### Chapter 4: Bebop
 
