@@ -72,3 +72,5 @@ You'll learn not just *what* each style sounds like, but *how* it works musicall
 Jazz is a vast, rich tradition. This book is your roadmap. Let's begin where jazz began—with the rhythmic innovations of ragtime and the collective improvisation of early New Orleans.
 
 ---
+
+**Navigation:** [Next: Chapter 1 - Pre-Jazz & Ragtime →](chapter-01-ragtime.md)

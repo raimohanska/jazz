@@ -235,3 +235,5 @@ Bebop established the language of modern jazz. Every style that followed either 
 By the late 1940s, some musicians felt bebop's intensity needed balance. On the West Coast, a cooler, more arranged approach was emerging. Simultaneously, musicians were pushing bebop's harmonic complexity even further into what would become hard bop. Jazz was fragmenting into multiple directions, all flowing from bebop's revolutionary fountain.
 
 ---
+
+**Navigation:** [← Chapter 3 - Swing & the Big Band Era](chapter-03-swing.md) | [Next: Chapter 5 - Cool Jazz & West Coast Jazz →](chapter-05-cool-jazz.md)
