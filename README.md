@@ -32,10 +32,7 @@
 13. [Contemporary Jazz (1980s-Present)](chapter-13-contemporary.md)
 
 ### Appendices
-- [Appendix A: Musical Examples & Analysis](appendix-a-examples.md)
 - [Appendix B: Complete Terminology & Concepts Reference](appendix-b-terminology.md)
-- [Appendix D: Historical Timeline](appendix-d-timeline.md)
-- [Appendix E: Practice Suggestions](appendix-e-practice.md)
 
 ### Back Matter
 - [Conclusion](conclusion.md)

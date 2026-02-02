@@ -62,7 +62,7 @@ Music is meant to be heard. Each chapter includes an **Essential Recordings** se
 **Path 4: Comprehensive Study**
 - Work through the entire book sequentially
 - Listen to complete playlist in order
-- Study musical examples in [Appendix A](appendix-a-examples.md)
+- Study musical examples and analysis integrated in chapters
 - Apply practice suggestions from [Appendix E](appendix-e-practice.md)
 
 ---

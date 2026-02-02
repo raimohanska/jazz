@@ -72,7 +72,7 @@ Chords built from stacked minor 3rds. **Diminished 7th**: C-Eb-Gb-Bbb (enharmoni
 Continuous streams of eighth notes, the primary texture of bebop improvisation. Creates flowing, horn-like quality. Requires stamina and harmonic knowledge to sustain over fast-changing harmonies.
 
 #### Enclosures
-Melodic technique surrounding a target note from above and below. Can be chromatic, diatonic, or mixed. Creates the angular, non-linear quality of bebop melody. See [Appendix A](#appendix-a-musical-examples--analysis) for notation examples.
+Melodic technique surrounding a target note from above and below. Can be chromatic, diatonic, or mixed. Creates the angular, non-linear quality of bebop melody.
 
 ### F
 
@@ -110,7 +110,7 @@ A compositional structure with multiple distinct melodic sections (strains), eac
 Substituting different chords for the original harmony while maintaining (or enhancing) the melodic structure. Bebop musicians frequently reharmonized standards, adding ii-V progressions and altered chords. Continues to be important improvisational and compositional technique.
 
 #### Rhythm Changes
-Chord progression from "I Got Rhythm" (Gershwin). See [Appendix A](#appendix-a-musical-examples--analysis) for full progression. Hundreds of bebop tunes use these changes. Essential learning for jazz musicians.
+Chord progression from "I Got Rhythm" (Gershwin). Hundreds of bebop tunes use these changes (such as "Anthropology" and "Oleo"). Essential learning for jazz musicians. The basic progression in Bb: | Bb | Bb | Bb | Bb7 | Eb | Eb | Bb | Bb | Cm7 | F7 | Bb | Bb | (with bridge typically going to dominant of relative minor).
 
 #### Ride Cymbal Pattern
 Drummer's time-keeping pattern on the ride cymbal, typically: "ding-ding-a-ding, ding-ding-a-ding" (swing rhythm on ride). Replaced bass drum as primary time-keeper in bebop. Creates lighter, more flexible swing feel.

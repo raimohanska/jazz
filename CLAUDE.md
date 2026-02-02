@@ -1,6 +1,6 @@
-# Claude Instructions for Jazz Styles & Eras Book
+# AI Assistant Instructions for Jazz Styles & Eras Book
 
-This file provides instructions for AI assistants when generating or completing content for the Jazz Styles and Eras book.
+This file provides instructions for AI assistants (Claude, GitHub Copilot, etc.) when generating or completing content for the Jazz Styles and Eras book.
 
 ## Project Structure
 
@@ -8,10 +8,11 @@ This file provides instructions for AI assistants when generating or completing 
 - **about.md** - About This Book section
 - **introduction.md** - Introduction: What Is Jazz?
 - **chapter-XX-*.md** - Individual chapter files (13 chapters)
-- **appendix-*.md** - Appendix files (A, B, D, E)
+- **appendix-*.md** - Appendix files (B only - A was integrated into Chapter 4)
 - **conclusion.md** - Conclusion section
 - **LICENSE** - CC-BY-4.0 license
-- **CLAUDE.md** - This file (generation instructions)
+- **CLAUDE.md** - This file (AI assistant generation instructions)
+- **.github/copilot-instructions.md** - Symlink to CLAUDE.md (used by GitHub Copilot)
 
 ## Quick Start for Content Generation
 
@@ -71,7 +72,7 @@ Each style chapter MUST include these sections in order:
 
 ### Terminology Linking Strategy
 
-- Use `[term](#term-name)` format for first instance of a term in each chapter
+- Use `[term](appendix-b-terminology.md#term-name)` format for first instance of a term in each chapter
 - Ensure the term exists in Appendix B before linking
 - If introducing a new term, add its definition to Appendix B (alphabetically organized)
 - Common linked terms: syncopation, swing rhythm, blue notes, chromaticism, walking bass, comping, etc.
@@ -185,12 +186,8 @@ The following chapters contain placeholders (`[*To be written...*]`) that need t
 
 ## Appendices Requiring Completion
 
-### Appendix A: Musical Examples & Analysis
-- Add examples for each completed style chapter
-- Include notation references where helpful
-
-### Appendix D: Historical Timeline
-- Expand timeline as chapters are completed
+### Appendix B: Complete Terminology & Concepts Reference
+- Continue to expand as new terms are introduced in chapters
 
 ### Conclusion
 - To be written upon completion of all chapters
