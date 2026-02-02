@@ -63,6 +63,12 @@ Each style chapter MUST include these sections in order:
 
 ### Cultural Impact
 [Bullet points on broader influence beyond music]
+
+### Musical Examples & Practice (Optional but Recommended)
+[Concrete examples of chord progressions, scales, techniques specific to the style]
+[Include code blocks for chord progressions]
+[Provide practice patterns and examples from recordings]
+[This section integrates directly into chapters rather than being in an appendix]
 ```
 
 ### Terminology Linking Strategy
@@ -181,6 +187,8 @@ The following chapters contain placeholders (`[*To be written...*]`) that need t
 
 ## Appendices Requiring Completion
 
+### Appendix D: Historical Timeline
+- Expand timeline as chapters are completed
 ### Appendix A: Musical Examples & Analysis
 - Add examples for each completed style chapter
 - Include notation references where helpful
