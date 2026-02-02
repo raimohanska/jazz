@@ -5,6 +5,9 @@ nav_order: 3
 parent: Chapters
 ---
 
+![Big band orchestra on stage](https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=1200)
+*Photo by [Larisa Birta](https://unsplash.com/@larisabirta) on Unsplash - The grandeur of the big band era*
+
 # 3. Swing & the Big Band Era (1930s-1940s)
 
 ### Historical Context

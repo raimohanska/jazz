@@ -5,6 +5,9 @@ nav_order: 2
 parent: Chapters
 ---
 
+![Trumpet and trombone players in classic jazz pose](https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1200)
+*Photo by [Toa Heftiba](https://unsplash.com/@heftiba) on Unsplash - The spirit of New Orleans collective improvisation*
+
 # 2. New Orleans Jazz & Dixieland (1910s-1930s)
 
 ### Historical Context

@@ -5,6 +5,9 @@ nav_order: 4
 parent: Chapters
 ---
 
+![Trumpet in smoky jazz club atmosphere](https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=1200)
+*Photo by [Marcela Laskoski](https://unsplash.com/@marcelalaskoski) on Unsplash - Bebop's revolutionary sound*
+
 # 4. Bebop (1940s-1950s)
 
 ### Historical Context

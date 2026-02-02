@@ -5,6 +5,9 @@ nav_order: 3
 parent: Appendices
 ---
 
+![Focused musician in practice session](https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=1200)
+*Photo by [Jens Thekkeveettil](https://unsplash.com/@jensth) on Unsplash - Developing your jazz voice through practice*
+
 # Appendix E: Practice Suggestions
 
 ## For All Musicians: Universal Approaches

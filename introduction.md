@@ -4,6 +4,9 @@ title: Introduction - What Is Jazz?
 nav_order: 3
 ---
 
+![Jazz band performing on stage](https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=1200)
+*Photo by [Marcela Laskoski](https://unsplash.com/@marcelalaskoski) on Unsplash - The essence of jazz collaboration*
+
 # Introduction: What Is Jazz?
 
 Defining jazz is like trying to catch water in your hands—the moment you think you've grasped it, it changes form. Over more than a century, jazz has evolved from the streets of New Orleans to concert halls worldwide, from dance music to art music, from acoustic to electric, from tightly arranged to completely free. Yet despite this diversity, certain core elements thread through all its forms.

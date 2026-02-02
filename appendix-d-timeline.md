@@ -5,6 +5,9 @@ nav_order: 2
 parent: Appendices
 ---
 
+![Historic jazz venue atmosphere](https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=1200)
+*Photo by [Wes Hicks](https://unsplash.com/@sickhews) on Unsplash - Tracing jazz through the decades*
+
 # Appendix D: Historical Timeline
 
 ## 1890s-1910s: Pre-Jazz & Ragtime
