@@ -138,25 +138,25 @@ Bebop was primarily instrumental music—its fast tempos and complex melodies di
 ### Essential Recordings
 
 1. **"Ko-Ko"** - Charlie Parker (1945) - Blazing tempo, [contrafact](appendix-b-terminology.md#contrafacts) on "Cherokee"; definitive bebop  
-   [Listen on Spotify](https://open.spotify.com/track/68cQgCO76FqkLB5HtcpsgG)
+   [🎵](https://open.spotify.com/track/68cQgCO76FqkLB5HtcpsgG)
 2. **"Salt Peanuts"** - Dizzy Gillespie (1945) - Playful melody, virtuosic solos; bebop joy  
-   [Listen on Spotify](https://open.spotify.com/track/2z8GkBqt1qF6rQ09XzZMXN)
+   [🎵](https://open.spotify.com/track/2z8GkBqt1qF6rQ09XzZMXN)
 3. **"A Night in Tunisia"** - Dizzy Gillespie (1946) - Exotic harmony, Afro-Cuban influence; Gillespie masterpiece  
-   [Listen on Spotify](https://open.spotify.com/track/3xNNOmRDXLHGPCn1BRBcGH)
+   [🎵](https://open.spotify.com/track/3xNNOmRDXLHGPCn1BRBcGH)
 4. **"Ornithology"** - Charlie Parker (1946) - Contrafact on "How High the Moon"; classic changes  
-   [Listen on Spotify](https://open.spotify.com/track/6OvbLfOKQDmVy2VyKWJHYx)
+   [🎵](https://open.spotify.com/track/6OvbLfOKQDmVy2VyKWJHYx)
 5. **"'Round Midnight"** - Thelonious Monk (1947) - Haunting ballad, complex harmony; most recorded jazz standard  
-   [Listen on Spotify](https://open.spotify.com/track/3TbAMP9mCgQWU4iJ9xhqOT)
+   [🎵](https://open.spotify.com/track/3TbAMP9mCgQWU4iJ9xhqOT)
 6. **"Donna Lee"** - Charlie Parker (1947) - Intricate melody showcasing bebop language  
-   [Listen on Spotify](https://open.spotify.com/track/1xFCAE8IrRDxUvHYfQ9tPo)
+   [🎵](https://open.spotify.com/track/1xFCAE8IrRDxUvHYfQ9tPo)
 7. **"Anthropology"** - Charlie Parker & Dizzy Gillespie (1948) - Classic rhythm changes; Parker and Diz together  
-   [Listen on Spotify](https://open.spotify.com/track/70RbuMpLG9IWWTSnqo5NZ1)
+   [🎵](https://open.spotify.com/track/70RbuMpLG9IWWTSnqo5NZ1)
 8. **"Un Poco Loco"** - Bud Powell (1951) - Piano trio at its peak; Powell's genius on display  
-   [Listen on Spotify](https://open.spotify.com/track/1BXWlZaXoYp9byvDwdCYqV)
+   [🎵](https://open.spotify.com/track/1BXWlZaXoYp9byvDwdCYqV)
 9. **"Cherokee"** - Charlie Parker (1942/Live) - The original changes; hear how fast Parker thought  
-   [Listen on Spotify](https://open.spotify.com/track/0wgFdPrk3PrXp2FpxGXJqo)
+   [🎵](https://open.spotify.com/track/0wgFdPrk3PrXp2FpxGXJqo)
 10. **"Groovin' High"** - Dizzy Gillespie (1945) - [Reharmonization](appendix-b-terminology.md#reharmonization) of "Whispering"; trumpet brilliance  
-   [Listen on Spotify](https://open.spotify.com/track/3wSDewRtx4BLLX8NxoLCLn)
+   [🎵](https://open.spotify.com/track/3wSDewRtx4BLLX8NxoLCLn)
 
 ### Cultural Impact
 
