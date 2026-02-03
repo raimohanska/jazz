@@ -21,7 +21,7 @@ async function searchSpotifyTrack(args: SearchArgs): Promise<void> {
   const { title, artist } = args;
   
   console.log(`\nSearching for: "${title}"${artist ? ` by ${artist}` : ''}\n`);
-  console.log('=' .repeat(80));
+  console.log('='.repeat(80));
   console.log('\nNote: This is a manual helper script.');
   console.log('To find the correct Spotify track ID:\n');
   console.log('1. Open Spotify (web or app)');
@@ -32,7 +32,7 @@ async function searchSpotifyTrack(args: SearchArgs): Promise<void> {
   console.log('Example URL: https://open.spotify.com/track/6yHJe5N4JVIqGcfNyJLPNn?si=...');
   console.log('Track ID: 6yHJe5N4JVIqGcfNyJLPNn\n');
   console.log('6. Use the format: [Spotify](https://open.spotify.com/track/TRACKID)\n');
-  console.log('=' .repeat(80));
+  console.log('='.repeat(80));
 }
 
 // Parse command line arguments
