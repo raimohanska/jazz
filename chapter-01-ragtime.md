@@ -47,35 +47,35 @@ Ragtime was *composed* rather than improvised, distinguishing it from the jazz t
 ### Musical Characteristics
 
 #### Syncopation (*Theory Introduction*)
-The defining characteristic of ragtime is [syncopation](appendix-b-terminology.md#syncopation)—placing rhythmic emphasis on weak beats or offbeats. On piano, the left hand maintains a steady "oom-pah" or march-like bass pattern in duple meter (usually 2/4), while the right hand plays syncopated melodies that accent unexpected beats.
+The defining characteristic of ragtime is [syncopation](appendix-b-terminology#syncopation)—placing rhythmic emphasis on weak beats or offbeats. On piano, the left hand maintains a steady "oom-pah" or march-like bass pattern in duple meter (usually 2/4), while the right hand plays syncopated melodies that accent unexpected beats.
 
 This creates a delightful tension: the pianist's left hand stays "straight" while the right hand "rags" the rhythm. Example: where you'd expect emphasis on beats 1 and 3, ragtime melodies accent the "and" of 1 and beat 2.
 
 #### Form
-Ragtime pieces typically use [multi-strain form](appendix-b-terminology.md#multi-strain-form) borrowed from marches:
+Ragtime pieces typically use [multi-strain form](appendix-b-terminology#multi-strain-form) borrowed from marches:
 - Usually 3-4 distinct melodic sections (strains)
 - Each strain typically 16 bars
 - Pattern like: AA BB A CC DD
-- Key changes between sections (often to [subdominant](appendix-b-terminology.md#subdominant))
+- Key changes between sections (often to [subdominant](appendix-b-terminology#subdominant))
 - Each strain repeated
 
 #### Stride Piano (*Theory Introduction*)
-[Stride piano](appendix-b-terminology.md#stride-piano) evolved from ragtime's left-hand patterns. The pianist's left hand "strides" between:
+[Stride piano](appendix-b-terminology#stride-piano) evolved from ragtime's left-hand patterns. The pianist's left hand "strides" between:
 - Low bass notes or octaves on beats 1 and 3
 - Mid-range chords on beats 2 and 4
 
 This creates a strong, propulsive rhythm and fuller harmonic texture than earlier ragtime.
 
 #### Harmony
-- Primarily [diatonic](appendix-b-terminology.md#diatonic) (staying within major/minor keys)
+- Primarily [diatonic](appendix-b-terminology#diatonic) (staying within major/minor keys)
 - Standard classical progressions (I-IV-V-I)
-- Some [chromaticism](appendix-b-terminology.md#chromaticism) for color
-- [Secondary dominants](appendix-b-terminology.md#secondary-dominants) for [modulation](appendix-b-terminology.md#modulation) between strains
+- Some [chromaticism](appendix-b-terminology#chromaticism) for color
+- [Secondary dominants](appendix-b-terminology#secondary-dominants) for [modulation](appendix-b-terminology#modulation) between strains
 - Simpler than jazz harmony that would follow
 
 #### Melody
 - Highly syncopated but clearly structured
-- Scalar passages and [arpeggios](appendix-b-terminology.md#arpeggios)
+- Scalar passages and [arpeggios](appendix-b-terminology#arpeggios)
 - Ornamented with grace notes and turns
 - Designed to sound difficult but be playable
 - Vocal quality despite being instrumental

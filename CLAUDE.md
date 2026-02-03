@@ -20,7 +20,7 @@ When asked to write a chapter or section:
 
 1. **Read the existing chapters first** (chapter-01-ragtime.md through chapter-04-bebop.md) to understand the established style, depth, and formatting
 2. **Follow the chapter structure** outlined below
-3. **Link terminology** to Appendix B using `[term](appendix-b-terminology.md#term-name)` format
+3. **Link terminology** to Appendix B using `[term](appendix-b-terminology#term-name)` format (no .md extension)
 4. **Match the tone**: authoritative but approachable, enthusiastic, practical
 5. **Use proper markdown formatting** consistent with existing chapters
 6. **Add navigation links** at the end of each chapter as specified in the chapter structure
@@ -89,7 +89,7 @@ Each style chapter MUST include these sections in order:
 **Navigation Links**: 
 - MUST be added at the end of each chapter, introduction, and conclusion
 - Format: `**Navigation:** [← Chapter X - Previous Chapter Title](chapter-XX-previous) | [Next: Chapter Y - Next Chapter Title →](chapter-YY-next)`
-- **IMPORTANT**: Do NOT include `.md` file extensions in navigation links - Jekyll automatically handles routing
+- **IMPORTANT**: Do NOT include `.md` file extensions in ANY links - Jekyll automatically handles routing for all markdown files
 - Use hyphens (`-`) to separate chapter number from title consistently in both previous and next links
 - Use arrows: `←` for previous, `→` for next
 - For introduction, only show next link
@@ -98,7 +98,7 @@ Each style chapter MUST include these sections in order:
 
 ### Terminology Linking Strategy
 
-- Use `[term](appendix-b-terminology.md#term-name)` format for first instance of a term in each chapter
+- Use `[term](appendix-b-terminology#term-name)` format for first instance of a term in each chapter (note: NO `.md` extension)
 - Ensure the term exists in Appendix B before linking
 - If introducing a new term, add its definition to Appendix B (alphabetically organized)
 - Common linked terms: syncopation, swing rhythm, blue notes, chromaticism, walking bass, comping, etc.

@@ -45,7 +45,7 @@ New Orleans jazz took elements from multiple sources and transformed them:
 - Formal training on instruments
 - But added: African rhythmic sensibility and improvisation
 
-**The Revolutionary Innovation**: Multiple musicians improvising simultaneously while maintaining coherent collective sound. This [collective improvisation](appendix-b-terminology.md#collective-improvisation) was unprecedented.
+**The Revolutionary Innovation**: Multiple musicians improvising simultaneously while maintaining coherent collective sound. This [collective improvisation](appendix-b-terminology#collective-improvisation) was unprecedented.
 
 ### Musical Characteristics
 
@@ -60,13 +60,13 @@ All three improvised their parts simultaneously, creating dense, joyous polyphon
 
 #### Rhythm Section
 - **Piano** or **Banjo**: Strummed chords on all four beats or played stride patterns
-- **Tuba** or **Bass**: Played on beats 1 and 3 (not yet [walking bass](appendix-b-terminology.md#walking-bass) lines)
+- **Tuba** or **Bass**: Played on beats 1 and 3 (not yet [walking bass](appendix-b-terminology#walking-bass) lines)
 - **Drums**: Kept time with march-like patterns, often emphasizing all four beats
 
-The rhythm was energetic but more "on the beat" than later swing—a "two-beat feel" or [2/2 time](appendix-b-terminology.md#two-beat-feel).
+The rhythm was energetic but more "on the beat" than later swing—a "two-beat feel" or [2/2 time](appendix-b-terminology#two-beat-feel).
 
 #### Blues Form (*Theory Introduction*)
-The [12-bar blues](appendix-b-terminology.md#twelve-bar-blues) became a standard form:
+The [12-bar blues](appendix-b-terminology#twelve-bar-blues) became a standard form:
 - 12 measures following I-I-I-I / IV-IV-I-I / V-IV-I-I progression
 - Each instrument improvises within this harmonic framework
 - Structure simple enough for collective improvisation
@@ -79,14 +79,14 @@ The [12-bar blues](appendix-b-terminology.md#twelve-bar-blues) became a standard
 - Often adapted from popular songs or hymns
 
 #### Harmony
-- Mostly [diatonic](appendix-b-terminology.md#diatonic) with simple I-IV-V progressions
-- Some [secondary dominants](appendix-b-terminology.md#secondary-dominants)
-- Occasional [chromaticism](appendix-b-terminology.md#chromaticism)
+- Mostly [diatonic](appendix-b-terminology#diatonic) with simple I-IV-V progressions
+- Some [secondary dominants](appendix-b-terminology#secondary-dominants)
+- Occasional [chromaticism](appendix-b-terminology#chromaticism)
 - Simpler than bebop, but more adventurous than ragtime
 
 #### Melody & Phrasing
 - Based on blues scales and major scales
-- Heavy use of [blue notes](appendix-b-terminology.md#blue-notes) (♭3, ♭5, ♭7)
+- Heavy use of [blue notes](appendix-b-terminology#blue-notes) (♭3, ♭5, ♭7)
 - Short, repeated melodic phrases (riffs)
 - Call-and-response between sections
 - Vocal quality—instruments "talked" and "sang"
@@ -123,7 +123,7 @@ First jazz group to make recordings (1917), though not the best or most authenti
 Female blues singers like **Ma Rainey** and **Bessie Smith** worked alongside jazz musicians, with jazz instrumentation backing their vocals. Their phrasing, use of blue notes, and emotional directness influenced instrumental players.
 
 **Louis Armstrong's Vocals**
-Armstrong's singing was as influential as his trumpet playing—natural, rhythmic, improvisational. His [scat singing](appendix-b-terminology.md#scat-singing) (vocal improvisation using nonsense syllables) became a jazz staple.
+Armstrong's singing was as influential as his trumpet playing—natural, rhythmic, improvisational. His [scat singing](appendix-b-terminology#scat-singing) (vocal improvisation using nonsense syllables) became a jazz staple.
 
 ### Essential Recordings
 

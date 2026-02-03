@@ -20,7 +20,7 @@ At its heart, jazz is improvised music. While classical musicians interpret a co
 The word "swing" describes both an era of jazz and a rhythmic feeling that pervades most jazz styles. Swing rhythm creates a propulsive, lilting quality—often described as a "triplet feel" where eighth notes are played unevenly rather than straight. This creates forward momentum and groove. While some modern jazz has explored straight eighth-note feels, the swing concept remains fundamental to the tradition.
 
 **Blues Foundation**
-Jazz grew from the blues tradition, and that influence never left. The [blues scale](appendix-b-terminology.md#blues-scale), [blue notes](appendix-b-terminology.md#blue-notes) (slightly flattened 3rds, 5ths, and 7ths), and the emotional directness of blues expression infuse all jazz styles. Even the most harmonically complex bebop or the most avant-garde free jazz often returns to blues roots.
+Jazz grew from the blues tradition, and that influence never left. The [blues scale](appendix-b-terminology#blues-scale), [blue notes](appendix-b-terminology#blue-notes) (slightly flattened 3rds, 5ths, and 7ths), and the emotional directness of blues expression infuse all jazz styles. Even the most harmonically complex bebop or the most avant-garde free jazz often returns to blues roots.
 
 **Individual Expression**
 Jazz values the individual voice. Two saxophonists can play the same solo transcription, but a jazz musician develops their own sound, phrasing, and approach. This emphasis on personal expression—your tone, your time feel, your harmonic choices—distinguishes jazz from many other musical traditions.
