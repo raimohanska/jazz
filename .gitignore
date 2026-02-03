@@ -5,3 +5,10 @@ _site/
 vendor/
 Gemfile.lock
 .bundle/
+
+# Node.js
+node_modules/
+dist/
+*.log
+npm-debug.log*
+.npm
