@@ -56,3 +56,24 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 This is a comprehensive guide to jazz styles and eras, written for musicians who want to understand the evolution of jazz from its roots to the present day. Each chapter focuses on a specific style or era, providing historical context, musical analysis, key artists, and essential recordings.
 
 The book is designed to be read sequentially or used as a reference, with cross-references between chapters and appendices.
+
+## Developer Tools
+
+This repository includes TypeScript tools for managing Spotify links in the book chapters:
+
+- **Validate Spotify Links** - Check format of all Spotify track links (offline)
+- **Verify Spotify Links** - Verify tracks exist on Spotify (requires network)
+- **Convert to Embeds** - Convert plain links to embedded Spotify players
+
+See [tools/README.md](tools/README.md) for detailed documentation.
+
+### Quick Start
+
+```bash
+npm install          # Install dependencies
+npm run build        # Build TypeScript tools
+npm test            # Run tests
+npm run validate-spotify  # Validate all Spotify link formats
+```
+
+For more information on fixing broken Spotify links, see [SPOTIFY_FIX_GUIDE.md](SPOTIFY_FIX_GUIDE.md).

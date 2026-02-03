@@ -8,6 +8,7 @@
     "test": "jest",
     "validate-spotify": "ts-node tools/validate-spotify-links.ts",
     "verify-spotify": "ts-node tools/verify-spotify-links.ts",
+    "embed-spotify": "ts-node tools/convert-to-embeds.ts",
     "check": "npm run build && npm test"
   },
   "devDependencies": {
