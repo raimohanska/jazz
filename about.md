@@ -54,7 +54,7 @@ Music is meant to be heard. Each chapter includes an **Essential Recordings** se
 - Read Introduction through Chapter 6 (Hard Bop) sequentially
 - Listen to at least 3 recordings per chapter
 - Study terminology as it's introduced
-- Practice suggestions in [Appendix E](appendix-e-practice.md) for your instrument
+- Practice suggestions in [Appendix E](appendix-e-practice) for your instrument
 
 **Path 2: Experienced Musician New to Jazz**
 - Skim Chapters 1-3 for historical context
@@ -72,6 +72,6 @@ Music is meant to be heard. Each chapter includes an **Essential Recordings** se
 - Work through the entire book sequentially
 - Listen to complete playlist in order
 - Study musical examples and analysis integrated in chapters
-- Apply practice suggestions from [Appendix E](appendix-e-practice.md)
+- Apply practice suggestions from [Appendix E](appendix-e-practice)
 
 ---

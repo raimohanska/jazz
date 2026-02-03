@@ -14,4 +14,4 @@ parent: Chapters
 
 ---
 
-**Navigation:** [← Chapter 6 - Hard Bop](chapter-06-hard-bop.md) | [Next: Chapter 8 - Free Jazz & Avant-Garde →](chapter-08-free-jazz.md)
+**Navigation:** [← Chapter 6 - Hard Bop](chapter-06-hard-bop) | [Next: Chapter 8 - Free Jazz & Avant-Garde →](chapter-08-free-jazz)

@@ -25,16 +25,16 @@ Bebop was also a cultural statement—young, predominantly African American musi
 
 ### Relationship to Earlier Styles
 
-Bebop was a revolutionary break from [swing](appendix-b-terminology.md#3-swing--the-big-band-era-1930s-1940s), though built on its foundation:
+Bebop was a revolutionary break from [swing](chapter-03-swing), though built on its foundation:
 
 **From Swing**:
 - **Tempo**: Dramatically faster than most swing (often 200+ BPM vs. swing's danceable 120-180)
 - **Ensemble size**: Large bands → Small combos (quintet/sextet)
 - **Texture**: Arranged sections → Unison melody + individual solos
 - **Purpose**: Dance music → Listening music
-- **Rhythm section**: Shifted from four-to-the-floor bass drum to [ride cymbal](appendix-b-terminology.md#ride-cymbal-pattern) with [comping](appendix-b-terminology.md#comping) on bass drum/snare
-- **Harmony**: Extended swing's vocabulary with [altered dominants](appendix-b-terminology.md#altered-dominants), [tritone substitutions](appendix-b-terminology.md#tritone-substitution), and rapid [ii-V-I progressions](appendix-b-terminology.md#ii-v-i-progression)
-- **Melody**: Replaced swing's singable melodies with angular, chromatic [bebop lines](appendix-b-terminology.md#bebop-language) using [eighth-note streams](appendix-b-terminology.md#eighth-note-lines) and [enclosures](appendix-b-terminology.md#enclosures)
+- **Rhythm section**: Shifted from four-to-the-floor bass drum to [ride cymbal](appendix-b-terminology#ride-cymbal-pattern) with [comping](appendix-b-terminology#comping) on bass drum/snare
+- **Harmony**: Extended swing's vocabulary with [altered dominants](appendix-b-terminology#altered-dominants), [tritone substitutions](appendix-b-terminology#tritone-substitution), and rapid [ii-V-I progressions](appendix-b-terminology#ii-v-i-progression)
+- **Melody**: Replaced swing's singable melodies with angular, chromatic [bebop lines](appendix-b-terminology#bebop-language) using [eighth-note streams](appendix-b-terminology#eighth-note-lines) and [enclosures](appendix-b-terminology#enclosures)
 
 **What Bebop Kept**:
 - Blues foundation and feeling
@@ -48,31 +48,31 @@ Bebop was a revolutionary break from [swing](appendix-b-terminology.md#3-swing--
 
 #### Melody & Phrasing (*Theory Introduction*)
 - Long, winding eighth-note lines with wide intervallic leaps
-- [Bebop scales](appendix-b-terminology.md#bebop-scales) (major, minor, dominant) adding chromatic passing tones between chord tones
+- [Bebop scales](appendix-b-terminology#bebop-scales) (major, minor, dominant) adding chromatic passing tones between chord tones
 - Phrases often starting on upbeats or weak beats
-- Heavy use of [chromaticism](appendix-b-terminology.md#chromaticism), [arpeggios](appendix-b-terminology.md#arpeggios), and [approach notes](appendix-b-terminology.md#approach-notes)
+- Heavy use of [chromaticism](appendix-b-terminology#chromaticism), [arpeggios](appendix-b-terminology#arpeggios), and [approach notes](appendix-b-terminology#approach-notes)
 - Angular, non-singable melodies designed for instruments, not voice
-- [Enclosures](appendix-b-terminology.md#enclosures) - surrounding target notes from above and below
+- [Enclosures](appendix-b-terminology#enclosures) - surrounding target notes from above and below
 
 #### Harmony (*Theory Introduction*)
-- Complex [chord progressions](appendix-b-terminology.md#chord-progressions) derived from popular songs
+- Complex [chord progressions](appendix-b-terminology#chord-progressions) derived from popular songs
 - **"Rhythm changes"** - progression from "I Got Rhythm," a bebop standard
-- [Reharmonization](appendix-b-terminology.md#reharmonization) of standards with added ii-V progressions
-- Frequent use of [diminished](appendix-b-terminology.md#diminished-chords) and [augmented chords](appendix-b-terminology.md#augmented-chords)
-- [Tritone substitution](appendix-b-terminology.md#tritone-substitution) - replacing dominant chords
-- [Upper structure triads](appendix-b-terminology.md#upper-structure-triads) and [chord extensions](appendix-b-terminology.md#chord-extensions) (9ths, 11ths, 13ths)
-- [Altered dominants](appendix-b-terminology.md#altered-dominants) - ♭9, #9, ♭5, #5 on V7 chords
+- [Reharmonization](appendix-b-terminology#reharmonization) of standards with added ii-V progressions
+- Frequent use of [diminished](appendix-b-terminology#diminished-chords) and [augmented chords](appendix-b-terminology#augmented-chords)
+- [Tritone substitution](appendix-b-terminology#tritone-substitution) - replacing dominant chords
+- [Upper structure triads](appendix-b-terminology#upper-structure-triads) and [chord extensions](appendix-b-terminology#chord-extensions) (9ths, 11ths, 13ths)
+- [Altered dominants](appendix-b-terminology#altered-dominants) - ♭9, #9, ♭5, #5 on V7 chords
 
 #### Rhythm (*Theory Introduction*)
-- Emphasis on [syncopation](appendix-b-terminology.md#syncopation) and rhythmic displacement
-- Bass walking [quarter notes](appendix-b-terminology.md#walking-bass), creating harmonic foundation
-- Drummer's ride cymbal keeping steady [swing feel](appendix-b-terminology.md#swing-rhythm) while comp rhythms (bass drum, snare) interact with soloists
-- [Trading fours](appendix-b-terminology.md#trading-fours) and [eights](appendix-b-terminology.md#trading-eights) became standard - soloists alternate 4 or 8-bar phrases
+- Emphasis on [syncopation](appendix-b-terminology#syncopation) and rhythmic displacement
+- Bass walking [quarter notes](appendix-b-terminology#walking-bass), creating harmonic foundation
+- Drummer's ride cymbal keeping steady [swing feel](appendix-b-terminology#swing-rhythm) while comp rhythms (bass drum, snare) interact with soloists
+- [Trading fours and eights](appendix-b-terminology#trading-fourseights) became standard - soloists alternate 4 or 8-bar phrases
 - Accents on weak beats, creating rhythmic tension
 
 #### Form
 - **Head-solos-head structure**: Theme-improvisation-theme
-- [Contrafacts](appendix-b-terminology.md#contrafacts): New melodies over existing chord progressions
+- [Contrafacts](appendix-b-terminology#contrafacts): New melodies over existing chord progressions
   - "Ko-Ko" = "Cherokee" changes
   - "Donna Lee" = "Indiana" changes  
   - "Ornithology" = "How High the Moon" changes
@@ -131,13 +131,13 @@ Bebop was primarily instrumental music—its fast tempos and complex melodies di
 - Often sang lyrics to bebop instrumentals
 
 **Vocalese**
-- [Vocalese](appendix-b-terminology.md#vocalese) - Adding lyrics to instrumental jazz solos
+- [Vocalese](appendix-b-terminology#vocalese) - Adding lyrics to instrumental jazz solos
 - Eddie Jefferson and later Lambert, Hendricks & Ross pioneered this
 - Required incredible skill to sing bebop's complex lines
 
 ### Essential Recordings
 
-1. **"Ko-Ko"** - Charlie Parker (1945) - Blazing tempo, [contrafact](appendix-b-terminology.md#contrafacts) on "Cherokee"; definitive bebop  
+1. **"Ko-Ko"** - Charlie Parker (1945) - Blazing tempo, [contrafact](appendix-b-terminology#contrafacts) on "Cherokee"; definitive bebop  
    [Spotify](https://open.spotify.com/track/68cQgCO76FqkLB5HtcpsgG)
 2. **"Salt Peanuts"** - Dizzy Gillespie (1945) - Playful melody, virtuosic solos; bebop joy  
    [Spotify](https://open.spotify.com/track/2z8GkBqt1qF6rQ09XzZMXN)
@@ -155,7 +155,7 @@ Bebop was primarily instrumental music—its fast tempos and complex melodies di
    [Spotify](https://open.spotify.com/track/1BXWlZaXoYp9byvDwdCYqV)
 9. **"Cherokee"** - Charlie Parker (1942/Live) - The original changes; hear how fast Parker thought  
    [Spotify](https://open.spotify.com/track/0wgFdPrk3PrXp2FpxGXJqo)
-10. **"Groovin' High"** - Dizzy Gillespie (1945) - [Reharmonization](appendix-b-terminology.md#reharmonization) of "Whispering"; trumpet brilliance  
+10. **"Groovin' High"** - Dizzy Gillespie (1945) - [Reharmonization](appendix-b-terminology#reharmonization) of "Whispering"; trumpet brilliance  
    [Spotify](https://open.spotify.com/track/3wSDewRtx4BLLX8NxoLCLn)
 
 ### Cultural Impact
@@ -249,4 +249,4 @@ By the late 1940s, some musicians felt bebop's intensity needed balance. On the 
 
 ---
 
-**Navigation:** [← Chapter 3 - Swing & the Big Band Era](chapter-03-swing.md) | [Next: Chapter 5 - Cool Jazz & West Coast Jazz →](chapter-05-cool-jazz.md)
+**Navigation:** [← Chapter 3 - Swing & the Big Band Era](chapter-03-swing) | [Next: Chapter 5 - Cool Jazz & West Coast Jazz →](chapter-05-cool-jazz)

@@ -37,14 +37,14 @@ Swing represented a fundamental shift from New Orleans jazz:
 **New Elements**:
 - **Arranged music**: Written parts for sections (saxophones, trumpets, trombones)
 - **Riff-based composition**: Simple melodic phrases repeated and layered
-- **Swing rhythm refined**: More sophisticated, propulsive [swing feel](appendix-b-terminology.md#swing-rhythm)
+- **Swing rhythm refined**: More sophisticated, propulsive [swing feel](appendix-b-terminology#swing-rhythm)
 - **Virtuosic soloists**: Featured improvisers within arrangements
 - **Song form emphasis**: 32-bar AABA structures from Tin Pan Alley
 
 ### Musical Characteristics
 
 #### Swing Rhythm (*Theory Introduction*)
-The [swing rhythm](appendix-b-terminology.md#swing-rhythm) that gives the era its name is a specific rhythmic feel:
+The [swing rhythm](appendix-b-terminology#swing-rhythm) that gives the era its name is a specific rhythmic feel:
 - Eighth notes played unevenly (roughly 2:1 ratio, like a triplet with first two notes tied)
 - Creates lilting, propulsive forward motion
 - "It don't mean a thing if it ain't got that swing" (Duke Ellington)
@@ -78,7 +78,7 @@ Away from the bandstand, a vibrant jam session scene fostered experimentation:
 These small group and jam session contexts kept improvisation at jazz's center and provided the laboratory where bebop would emerge.
 
 #### Section Writing & Arrangement (*Theory Introduction*)
-[Arrangers](appendix-b-terminology.md#arranging) wrote parts creating distinct textures:
+Arrangers wrote parts creating distinct textures:
 - **Soli sections**: All instruments in a section playing in harmony (like saxophone soli)
 - **Call-and-response**: One section "calls," another "responds"
 - **Riff patterns**: Short, repeated melodic phrases passed between sections
@@ -89,12 +89,12 @@ Great arrangers (Fletcher Henderson, Don Redman, Eddie Sauter) were as important
 
 #### Rhythm Section Evolution
 Major changes from New Orleans style:
-- **Bass**: [Walking bass](appendix-b-terminology.md#walking-bass) lines—playing all four beats, outlining chord changes
+- **Bass**: [Walking bass](appendix-b-terminology#walking-bass) lines—playing all four beats, outlining chord changes
 - **Drums**: Hi-hat on 2 and 4, ride cymbal for swing feel, bass drum for accents
-- **Guitar**: Strummed chords on all four beats (Freddie Green style) or [comping](appendix-b-terminology.md#comping)
-- **Piano**: [Comping](appendix-b-terminology.md#comping) (playing chords rhythmically) behind soloists, or playing written parts
+- **Guitar**: Strummed chords on all four beats (Freddie Green style) or [comping](appendix-b-terminology#comping)
+- **Piano**: [Comping](appendix-b-terminology#comping) (playing chords rhythmically) behind soloists, or playing written parts
 
-Created the [four-beat feel](appendix-b-terminology.md#four-beat-feel) that propelled dancers.
+Created the [four-beat feel](appendix-b-terminology#four-beat-feel) that propelled dancers.
 
 #### Form
 - 32-bar AABA song form (most common)
@@ -104,7 +104,7 @@ Created the [four-beat feel](appendix-b-terminology.md#four-beat-feel) that prop
 
 #### Harmony
 - Diatonic progressions from popular songs
-- [ii-V-I progressions](appendix-b-terminology.md#ii-v-i-progression) becoming standard
+- [ii-V-I progressions](appendix-b-terminology#ii-v-i-progression) becoming standard
 - Some extended chords (6ths, 9ths)
 - Secondary dominants
 - More sophisticated than New Orleans jazz, but simpler than bebop to come
@@ -226,4 +226,4 @@ These after-hours laboratories—direct descendants of the Kansas City jam sessi
 
 ---
 
-**Navigation:** [← Chapter 2 - New Orleans Jazz & Dixieland](chapter-02-new-orleans.md) | [Next: Chapter 4 - Bebop →](chapter-04-bebop.md)
+**Navigation:** [← Chapter 2 - New Orleans Jazz & Dixieland](chapter-02-new-orleans) | [Next: Chapter 4 - Bebop →](chapter-04-bebop)
