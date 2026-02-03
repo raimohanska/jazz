@@ -77,6 +77,7 @@ Each style chapter MUST include these sections in order:
 ### Essential Recordings
 [Numbered list, 6-10 recordings]
 [Format: **"Title"** - Artist (Year) - One sentence explaining significance]
+[DO NOT include Spotify links - these will be added manually]
 
 ### Cultural Impact
 [Bullet points on broader influence beyond music]
@@ -146,6 +147,7 @@ Each style chapter MUST include these sections in order:
 - Include: Title, Artist, Year
 - Brief annotation explaining significance
 - Prefer historically significant original recordings
+- **DO NOT generate Spotify links** - these should be added manually by the author
 
 ### Quality Control
 
