@@ -25,7 +25,7 @@ Bebop was also a cultural statement—young, predominantly African American musi
 
 ### Relationship to Earlier Styles
 
-Bebop was a revolutionary break from [swing](appendix-b-terminology#3-swing--the-big-band-era-1930s-1940s), though built on its foundation:
+Bebop was a revolutionary break from [swing](chapter-03-swing), though built on its foundation:
 
 **From Swing**:
 - **Tempo**: Dramatically faster than most swing (often 200+ BPM vs. swing's danceable 120-180)
@@ -67,7 +67,7 @@ Bebop was a revolutionary break from [swing](appendix-b-terminology#3-swing--the
 - Emphasis on [syncopation](appendix-b-terminology#syncopation) and rhythmic displacement
 - Bass walking [quarter notes](appendix-b-terminology#walking-bass), creating harmonic foundation
 - Drummer's ride cymbal keeping steady [swing feel](appendix-b-terminology#swing-rhythm) while comp rhythms (bass drum, snare) interact with soloists
-- [Trading fours](appendix-b-terminology#trading-fours) and [eights](appendix-b-terminology#trading-eights) became standard - soloists alternate 4 or 8-bar phrases
+- [Trading fours and eights](appendix-b-terminology#trading-fourseights) became standard - soloists alternate 4 or 8-bar phrases
 - Accents on weak beats, creating rhythmic tension
 
 #### Form

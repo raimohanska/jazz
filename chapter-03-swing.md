@@ -78,7 +78,7 @@ Away from the bandstand, a vibrant jam session scene fostered experimentation:
 These small group and jam session contexts kept improvisation at jazz's center and provided the laboratory where bebop would emerge.
 
 #### Section Writing & Arrangement (*Theory Introduction*)
-[Arrangers](appendix-b-terminology#arranging) wrote parts creating distinct textures:
+Arrangers wrote parts creating distinct textures:
 - **Soli sections**: All instruments in a section playing in harmony (like saxophone soli)
 - **Call-and-response**: One section "calls," another "responds"
 - **Riff patterns**: Short, repeated melodic phrases passed between sections
