@@ -103,21 +103,21 @@ Stride pianist who extended ragtime's life into the 1920s. Known for "I'm Just W
 ### Essential Recordings
 
 1. **"Maple Leaf Rag"** - Scott Joplin (1899) - The piece that defined ragtime, still the most famous rag ever written  
-   [Spotify](https://open.spotify.com/track/6yHJe5N4JVIqGcfNyJLPNn)
+   [Spotify](https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV)
 2. **"The Entertainer"** - Scott Joplin (1902) - Perfectly balanced melody and rhythm; later featured in "The Sting"  
-   [Spotify](https://open.spotify.com/track/47qGa2NezwKTQ99LmVPNHu)
+   [Spotify](https://open.spotify.com/track/5AG5pSFU0yXf1VosgYL6kr)
 3. **"Frog Legs Rag"** - James Scott (1906) - Showcases sophisticated harmony and structure  
-   [Spotify](https://open.spotify.com/track/4MIOpJYyiI8zTi9uyBWqOG)
+   [Spotify](https://open.spotify.com/track/1nLSXtj4vCcMfFD2jg6Diy)
 4. **"Solace"** - Scott Joplin (1909) - Lyrical, slower "Mexican serenade" showing ragtime's expressive range  
-   [Spotify](https://open.spotify.com/track/1Nq0kpEYt6wl4pJQPfF4Lg)
+   [Spotify](https://open.spotify.com/track/66O6qtNKZiFtDUThcoZZCP)
 5. **"Ragtime Dance"** - Scott Joplin (1902) - Demonstrates connection between ragtime and dance  
-   [Spotify](https://open.spotify.com/track/0gvjLZmPfPPkyFRWKZnB5P)
+   [Spotify](https://open.spotify.com/track/0bKewqEAZeQkFqWd3XW3CK)
 6. **"Sensation Rag"** - Joseph Lamb (1908) - Complex composition showing ragtime's artistic maturity  
    [Spotify](https://open.spotify.com/track/1bDvHlvVMjRkYlDrQBPCPX)
 7. **"Joplin's Maple Leaf Rag"** - Jelly Roll Morton (1938) - Morton's improvised version shows the bridge to jazz  
-   [Spotify](https://open.spotify.com/track/4aCDhb2LkLl9rPYzqbPQ4M)
+   [Spotify](https://open.spotify.com/track/7xzRLS1crTGiCyoSi9njZo)
 8. **"Carolina Shout"** - James P. Johnson (1921) - Stride piano at its finest, test piece for aspiring pianists  
-   [Spotify](https://open.spotify.com/track/5w2QzkQE7hYmJRpnPRJ4wz)
+   [Spotify](https://open.spotify.com/track/2ReYxYAHBlpwnp5E2DTzXX)
 
 *Note: Many ragtime pieces were originally published as sheet music. Modern recordings feature various pianists interpreting these compositions.*
 
