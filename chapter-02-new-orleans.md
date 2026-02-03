@@ -152,4 +152,4 @@ By the late 1920s, jazz was evolving rapidly. Louis Armstrong's recordings with 
 
 ---
 
-**Navigation:** [← Chapter 1 - Pre-Jazz & Ragtime](chapter-01-ragtime.md) | [Next: Chapter 3 - Swing & the Big Band Era →](chapter-03-swing.md)
+**Navigation:** [← Chapter 1 - Pre-Jazz & Ragtime](chapter-01-ragtime) | [Next: Chapter 3 - Swing & the Big Band Era →](chapter-03-swing)

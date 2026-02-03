@@ -239,4 +239,4 @@ By the late 1940s, some musicians felt bebop's intensity needed balance. On the 
 
 ---
 
-**Navigation:** [← Chapter 3 - Swing & the Big Band Era](chapter-03-swing.md) | [Next: Chapter 5 - Cool Jazz & West Coast Jazz →](chapter-05-cool-jazz.md)
+**Navigation:** [← Chapter 3 - Swing & the Big Band Era](chapter-03-swing) | [Next: Chapter 5 - Cool Jazz & West Coast Jazz →](chapter-05-cool-jazz)

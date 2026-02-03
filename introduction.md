@@ -76,4 +76,4 @@ Jazz is a vast, rich tradition. This book is your roadmap. Let's begin where jaz
 
 ---
 
-**Navigation:** [Next: Chapter 1 - Pre-Jazz & Ragtime →](chapter-01-ragtime.md)
+**Navigation:** [Next: Chapter 1 - Pre-Jazz & Ragtime →](chapter-01-ragtime)

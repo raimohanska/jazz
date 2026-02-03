@@ -14,4 +14,4 @@ parent: Chapters
 
 ---
 
-**Navigation:** [← Chapter 12 - Post-Bop & Modern Mainstream](chapter-12-post-bop.md) | [Next: Conclusion →](conclusion.md)
+**Navigation:** [← Chapter 12 - Post-Bop & Modern Mainstream](chapter-12-post-bop) | [Next: Conclusion →](conclusion)

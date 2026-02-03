@@ -135,4 +135,4 @@ By the 1910s, musicians in New Orleans were taking ragtime's rhythmic innovation
 
 ---
 
-**Navigation:** [← Introduction](introduction.md) | [Next: Chapter 2 - New Orleans Jazz →](chapter-02-new-orleans.md)
+**Navigation:** [← Introduction](introduction) | [Next: Chapter 2 - New Orleans Jazz →](chapter-02-new-orleans)
