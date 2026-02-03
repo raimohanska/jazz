@@ -47,6 +47,34 @@ This repository is configured to automatically deploy to GitHub Pages with a mob
 
 ---
 
+## For Contributors
+
+### Fixing Broken Spotify Links
+
+The Spotify links in the book chapters currently return 404 errors. To find and verify working links:
+
+1. **See [SPOTIFY_SETUP.md](SPOTIFY_SETUP.md)** for detailed instructions on:
+   - Getting free Spotify API credentials
+   - Securely storing credentials using environment variables
+   - Using the verification script to find correct links
+
+2. **Quick overview:**
+   ```bash
+   # Set up credentials (one time)
+   cp .env.example .env
+   # Edit .env with your Spotify API credentials
+   
+   # Search for correct links
+   python3 scripts/spotify_verifier.py search "Maple Leaf Rag Scott Joplin"
+   
+   # Verify links in a file
+   python3 scripts/spotify_verifier.py verify-file chapter-01-ragtime.md
+   ```
+
+3. **Security:** Credentials are stored in `.env` which is gitignored. Never commit credentials to the repository.
+
+---
+
 ## License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC-BY-4.0).

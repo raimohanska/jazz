@@ -5,3 +5,23 @@ _site/
 vendor/
 Gemfile.lock
 .bundle/
+
+# Environment variables and credentials
+.env
+.env.local
+spotify_credentials.json
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Temporary files
+*.tmp
+*.log
