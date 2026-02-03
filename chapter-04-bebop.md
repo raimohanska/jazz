@@ -156,7 +156,7 @@ Bebop was primarily instrumental music—its fast tempos and complex melodies di
 9. **"Cherokee"** - Charlie Parker (1942/Live) - The original changes; hear how fast Parker thought  
    [Listen on Spotify](https://open.spotify.com/track/0wgFdPrk3PrXp2FpxGXJqo)
 10. **"Groovin' High"** - Dizzy Gillespie (1945) - [Reharmonization](appendix-b-terminology.md#reharmonization) of "Whispering"; trumpet brilliance  
-    [Listen on Spotify](https://open.spotify.com/track/3wSDewRtx4BLLX8NxoLCLn)
+   [Listen on Spotify](https://open.spotify.com/track/3wSDewRtx4BLLX8NxoLCLn)
 
 ### Cultural Impact
 

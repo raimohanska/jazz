@@ -195,11 +195,11 @@ The swing era was jazz's most vocal-friendly period. Singers were featured membe
 9. **"Lester Leaps In"** - Kansas City Seven (1939) - Lester Young's cool, melodic approach in Basie small group  
    [Listen on Spotify](https://open.spotify.com/track/1HGpkVQUoiPfEm9v5M7rXc)
 10. **"Strange Fruit"** - Billie Holiday (1939) - Haunting protest song with small combo; Holiday's interpretive power  
-    [Listen on Spotify](https://open.spotify.com/track/3VBG5X3WVHGl2tsYSQ6MHN)
+   [Listen on Spotify](https://open.spotify.com/track/3VBG5X3WVHGl2tsYSQ6MHN)
 11. **"Solo Flight"** - Benny Goodman Sextet feat. Charlie Christian (1941) - Electric guitar revolution; Christian's fluid bebop-anticipating lines  
-    [Listen on Spotify](https://open.spotify.com/track/3HVmSmPHoA6RNaWqZNr7cr)
+   [Listen on Spotify](https://open.spotify.com/track/3HVmSmPHoA6RNaWqZNr7cr)
 12. **"After You've Gone"** - Benny Goodman Trio (1935) - Goodman, Teddy Wilson, Gene Krupa; integrated jazz at its swinging best  
-    [Listen on Spotify](https://open.spotify.com/track/2w3VGaHXjfxbZStTLLlPME)
+   [Listen on Spotify](https://open.spotify.com/track/2w3VGaHXjfxbZStTLLlPME)
 
 ### Cultural Impact
 
