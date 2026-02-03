@@ -175,31 +175,31 @@ The swing era was jazz's most vocal-friendly period. Singers were featured membe
 
 **Big Band**
 1. **"One O'Clock Jump"** - Count Basie Orchestra (1937) - Definitive riff-based swing; the Basie rhythm section  
-   [🎵](https://open.spotify.com/track/7gLuHr7aErg7eRVVWBTiMR)
+   [Spotify](https://open.spotify.com/track/7gLuHr7aErg7eRVVWBTiMR)
 2. **"Sing, Sing, Sing"** - Benny Goodman Orchestra (1937) - Extended drum feature by Gene Krupa; peak swing excitement  
-   [🎵](https://open.spotify.com/track/4JvF6HhT4M6iGcO7Y7n5o0)
+   [Spotify](https://open.spotify.com/track/4JvF6HhT4M6iGcO7Y7n5o0)
 3. **"Take the 'A' Train"** - Duke Ellington Orchestra (1941) - Ellington's theme song; Billy Strayhorn composition  
-   [🎵](https://open.spotify.com/track/1vYJXDQFcRFswRBybd6RiW)
+   [Spotify](https://open.spotify.com/track/1vYJXDQFcRFswRBybd6RiW)
 4. **"In the Mood"** - Glenn Miller Orchestra (1939) - Most commercially successful swing recording  
-   [🎵](https://open.spotify.com/track/7FXj7Qey5J3h8B5VvFJLSU)
+   [Spotify](https://open.spotify.com/track/7FXj7Qey5J3h8B5VvFJLSU)
 5. **"Ko-Ko"** - Duke Ellington Orchestra (1940) - Adventurous, nearly atonal Ellington composition  
-   [🎵](https://open.spotify.com/track/7D5kMKXJvNJdGm1FbQzRDR)
+   [Spotify](https://open.spotify.com/track/7D5kMKXJvNJdGm1FbQzRDR)
 6. **"A-Tisket, A-Tasket"** - Ella Fitzgerald with Chick Webb (1938) - Joyful swing vocal  
-   [🎵](https://open.spotify.com/track/1zWBxFkILLdqhBxKGHNRCX)
+   [Spotify](https://open.spotify.com/track/1zWBxFkILLdqhBxKGHNRCX)
 7. **"Cherokee"** - Charlie Barnet Orchestra (1939) - Complex harmony that beboppers would mine  
-   [🎵](https://open.spotify.com/track/7n4UiIrMRnZznIYMkKGZ3u)
+   [Spotify](https://open.spotify.com/track/7n4UiIrMRnZznIYMkKGZ3u)
 
 **Small Group**
 8. **"Body and Soul"** - Coleman Hawkins (1939) - Saxophone ballad improvisation at its finest; just tenor and rhythm section  
-   [🎵](https://open.spotify.com/track/6f3kAHtkEelabqJPqYkHCb)
+   [Spotify](https://open.spotify.com/track/6f3kAHtkEelabqJPqYkHCb)
 9. **"Lester Leaps In"** - Kansas City Seven (1939) - Lester Young's cool, melodic approach in Basie small group  
-   [🎵](https://open.spotify.com/track/1HGpkVQUoiPfEm9v5M7rXc)
+   [Spotify](https://open.spotify.com/track/1HGpkVQUoiPfEm9v5M7rXc)
 10. **"Strange Fruit"** - Billie Holiday (1939) - Haunting protest song with small combo; Holiday's interpretive power  
-   [🎵](https://open.spotify.com/track/3VBG5X3WVHGl2tsYSQ6MHN)
+   [Spotify](https://open.spotify.com/track/3VBG5X3WVHGl2tsYSQ6MHN)
 11. **"Solo Flight"** - Benny Goodman Sextet feat. Charlie Christian (1941) - Electric guitar revolution; Christian's fluid bebop-anticipating lines  
-   [🎵](https://open.spotify.com/track/3HVmSmPHoA6RNaWqZNr7cr)
+   [Spotify](https://open.spotify.com/track/3HVmSmPHoA6RNaWqZNr7cr)
 12. **"After You've Gone"** - Benny Goodman Trio (1935) - Goodman, Teddy Wilson, Gene Krupa; integrated jazz at its swinging best  
-   [🎵](https://open.spotify.com/track/2w3VGaHXjfxbZStTLLlPME)
+   [Spotify](https://open.spotify.com/track/2w3VGaHXjfxbZStTLLlPME)
 
 ### Cultural Impact
 

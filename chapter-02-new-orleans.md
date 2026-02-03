@@ -128,21 +128,21 @@ Armstrong's singing was as influential as his trumpet playing—natural, rhythmi
 ### Essential Recordings
 
 1. **"Dippermouth Blues"** - King Oliver's Creole Jazz Band (1923) - Classic collective improvisation; Oliver's muted solo is legendary  
-   [🎵](https://open.spotify.com/track/1RCfJfAU8wfASOBVKLIlgk)
+   [Spotify](https://open.spotify.com/track/1RCfJfAU8wfASOBVKLIlgk)
 2. **"West End Blues"** - Louis Armstrong (1928) - Armstrong's opening cadenza changed jazz forever; shift from collective to solo improvisation  
-   [🎵](https://open.spotify.com/track/4CgbT0VaLwGNQOKOODOqpU)
+   [Spotify](https://open.spotify.com/track/4CgbT0VaLwGNQOKOODOqpU)
 3. **"Potato Head Blues"** - Louis Armstrong's Hot Seven (1927) - Stop-time breaks showcase Armstrong's rhythmic genius  
-   [🎵](https://open.spotify.com/track/1qwjQAjBSVyONyEaBZbgvm)
+   [Spotify](https://open.spotify.com/track/1qwjQAjBSVyONyEaBZbgvm)
 4. **"Black Bottom Stomp"** - Jelly Roll Morton's Red Hot Peppers (1926) - Perfect balance of composition and improvisation  
-   [🎵](https://open.spotify.com/track/5xHFrS24TSqOQTHaxwTD1A)
+   [Spotify](https://open.spotify.com/track/5xHFrS24TSqOQTHaxwTD1A)
 5. **"Livery Stable Blues"** - Original Dixieland Jazz Band (1917) - First jazz recording, historically significant despite limitations  
-   [🎵](https://open.spotify.com/track/7vN5qzF6kWQXgqZYOV2XTb)
+   [Spotify](https://open.spotify.com/track/7vN5qzF6kWQXgqZYOV2XTb)
 6. **"Dead Man Blues"** - Jelly Roll Morton's Red Hot Peppers (1926) - Sophisticated arrangement demonstrating Morton's compositional gifts  
-   [🎵](https://open.spotify.com/track/6dkuEbGfmS9hbh4J8iy17m)
+   [Spotify](https://open.spotify.com/track/6dkuEbGfmS9hbh4J8iy17m)
 7. **"Muskrat Ramble"** - Louis Armstrong's Hot Five (1926) - Quintessential New Orleans jazz structure and spirit  
-   [🎵](https://open.spotify.com/track/5OCdcZLfxqWWjVLjKb6gRu)
+   [Spotify](https://open.spotify.com/track/5OCdcZLfxqWWjVLjKb6gRu)
 8. **"St. Louis Blues"** - Bessie Smith with Louis Armstrong (1925) - Blues vocalist and jazz instrumentalist in perfect dialogue  
-   [🎵](https://open.spotify.com/track/1xAvMQRkqGfdCN3RR6WiXa)
+   [Spotify](https://open.spotify.com/track/1xAvMQRkqGfdCN3RR6WiXa)
 
 ### Cultural Impact
 
