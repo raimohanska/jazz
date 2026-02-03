@@ -138,25 +138,35 @@ Bebop was primarily instrumental music—its fast tempos and complex melodies di
 ### Essential Recordings
 
 1. **"Ko-Ko"** - Charlie Parker (1945) - Blazing tempo, [contrafact](appendix-b-terminology#contrafacts) on "Cherokee"; definitive bebop  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/0v9SC4wbYYftrVxLkuHKH0)
+
 2. **"Salt Peanuts"** - Dizzy Gillespie (1945) - Playful melody, virtuosic solos; bebop joy  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/1xXydFs62EqOXFMPizVhn4)
+
 3. **"A Night in Tunisia"** - Dizzy Gillespie (1946) - Exotic harmony, Afro-Cuban influence; Gillespie masterpiece  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/0C1lvtSyf6K58QvOvykE5T)
+
 4. **"Ornithology"** - Charlie Parker (1946) - Contrafact on "How High the Moon"; classic changes  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/6A1mh31895sUIYEpOfeqC3)
+
 5. **"'Round Midnight"** - Thelonious Monk (1947) - Haunting ballad, complex harmony; most recorded jazz standard  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/2h33iqW8QVkXpdWRRiC5qc)
+
 6. **"Donna Lee"** - Charlie Parker (1947) - Intricate melody showcasing bebop language  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/3y1rfso5agnU4utSlx39xF)
+
 7. **"Anthropology"** - Charlie Parker & Dizzy Gillespie (1948) - Classic rhythm changes; Parker and Diz together  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/5AocgVX2FTbV76uwCjAKl5)
+
 8. **"Un Poco Loco"** - Bud Powell (1951) - Piano trio at its peak; Powell's genius on display  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/4yng5kF1wHXjmao9QCAqPq)
+
 9. **"Cherokee"** - Charlie Parker (1942/Live) - The original changes; hear how fast Parker thought  
-   [Spotify]()
+   [Spotify](https://open.spotify.com/track/53uLuNmtzedH4laaq0WmBl)
+
 10. **"Groovin' High"** - Dizzy Gillespie (1945) - [Reharmonization](appendix-b-terminology#reharmonization) of "Whispering"; trumpet brilliance  
-   [Spotify]()
+    [Spotify](https://open.spotify.com/track/1IMHjO3dsAs1SJdmJVlRpq)
+
 
 ### Cultural Impact
 

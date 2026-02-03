@@ -127,22 +127,29 @@ Armstrong's singing was as influential as his trumpet playing—natural, rhythmi
 
 ### Essential Recordings
 
-1. **"Dippermouth Blues"** - King Oliver's Creole Jazz Band (1923) - Classic collective improvisation; Oliver's muted solo is legendary  
-   [Spotify]()
-2. **"West End Blues"** - Louis Armstrong (1928) - Armstrong's opening cadenza changed jazz forever; shift from collective to solo improvisation  
-   [Spotify]()
-3. **"Potato Head Blues"** - Louis Armstrong's Hot Seven (1927) - Stop-time breaks showcase Armstrong's rhythmic genius  
-   [Spotify]()
-4. **"Black Bottom Stomp"** - Jelly Roll Morton's Red Hot Peppers (1926) - Perfect balance of composition and improvisation  
-   [Spotify]()
-5. **"Livery Stable Blues"** - Original Dixieland Jazz Band (1917) - First jazz recording, historically significant despite limitations  
-   [Spotify]()
-6. **"Dead Man Blues"** - Jelly Roll Morton's Red Hot Peppers (1926) - Sophisticated arrangement demonstrating Morton's compositional gifts  
-   [Spotify]()
-7. **"Muskrat Ramble"** - Louis Armstrong's Hot Five (1926) - Quintessential New Orleans jazz structure and spirit  
-   [Spotify]()
-8. **"St. Louis Blues"** - Bessie Smith with Louis Armstrong (1925) - Blues vocalist and jazz instrumentalist in perfect dialogue  
-   [Spotify]()
+1. **"Dippermouth Blues"** – King Oliver's Creole Jazz Band (1923) – Classic collective improvisation; Oliver's muted solo is legendary  
+   [Spotify](https://open.spotify.com/track/6aPazwwW4d5kklYzi3oT7M)
+
+2. **"West End Blues"** – Louis Armstrong (1928) – Armstrong's opening cadenza changed jazz forever; shift from collective to solo improvisation  
+   [Spotify](https://open.spotify.com/track/7dOz8RrPWP9UgJ8X8p1vU7)
+
+3. **"Potato Head Blues"** – Louis Armstrong's Hot Seven (1927) – Stop-time breaks showcase Armstrong's rhythmic genius  
+   [Spotify](https://open.spotify.com/track/6I6euNhufMjr9Su5LbioSQ)
+
+4. **"Black Bottom Stomp"** – Jelly Roll Morton's Red Hot Peppers (1926) – Perfect balance of composition and improvisation  
+   [Spotify](https://open.spotify.com/track/3xZTC6uGNl82p4gnPszCj2)
+
+5. **"Livery Stable Blues"** – Original Dixieland Jazz Band (1917) – First jazz recording, historically significant despite limitations  
+   [Spotify](https://open.spotify.com/track/1m6yYJ9dG3g2kS3IoVgBux)
+
+6. **"Dead Man Blues"** – Jelly Roll Morton's Red Hot Peppers (1926) – Sophisticated arrangement demonstrating Morton's compositional gifts  
+   [Spotify](https://open.spotify.com/track/69HVmb7rXteonTn5qY2zo9)
+
+7. **"Muskrat Ramble"** – Louis Armstrong's Hot Five (1926) – Quintessential New Orleans jazz structure and spirit  
+   [Spotify](https://open.spotify.com/track/4tVR66saAktEmLruoOoI5a)
+
+8. **"St. Louis Blues"** – Bessie Smith with Louis Armstrong (1925) – Blues vocalist and jazz instrumentalist in perfect dialogue  
+   [Spotify](https://open.spotify.com/track/4ejUoPIMggFTVrAyvodqJQ)
 
 ### Cultural Impact
 
