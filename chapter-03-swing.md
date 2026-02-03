@@ -214,4 +214,4 @@ These after-hours laboratories—direct descendants of the Kansas City jam sessi
 
 ---
 
-**Navigation:** [← Chapter 2 - New Orleans Jazz & Dixieland](chapter-02-new-orleans.md) | [Next: Chapter 4 - Bebop →](chapter-04-bebop.md)
+**Navigation:** [← Chapter 2 - New Orleans Jazz & Dixieland](chapter-02-new-orleans) | [Next: Chapter 4 - Bebop →](chapter-04-bebop)

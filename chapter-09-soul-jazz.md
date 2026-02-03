@@ -14,4 +14,4 @@ parent: Chapters
 
 ---
 
-**Navigation:** [← Chapter 8 - Free Jazz & Avant-Garde](chapter-08-free-jazz.md) | [Next: Chapter 10 - Latin Jazz →](chapter-10-latin-jazz.md)
+**Navigation:** [← Chapter 8 - Free Jazz & Avant-Garde](chapter-08-free-jazz) | [Next: Chapter 10 - Latin Jazz →](chapter-10-latin-jazz)

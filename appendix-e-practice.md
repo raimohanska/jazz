@@ -57,7 +57,7 @@ For each new concept:
 **Technique Building**
 - Long tones in all registers
 - Scales through full range in all keys
-- Bebop scales (see [Appendix B](README.md#appendix-b-complete-terminology--concepts-reference))
+- Bebop scales (see [Appendix B](appendix-b-terminology))
 - Articulation studies (varying attacks)
 
 **Bebop Vocabulary Development**

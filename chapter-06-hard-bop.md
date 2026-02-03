@@ -14,4 +14,4 @@ parent: Chapters
 
 ---
 
-**Navigation:** [← Chapter 5 - Cool Jazz & West Coast Jazz](chapter-05-cool-jazz.md) | [Next: Chapter 7 - Modal Jazz →](chapter-07-modal-jazz.md)
+**Navigation:** [← Chapter 5 - Cool Jazz & West Coast Jazz](chapter-05-cool-jazz) | [Next: Chapter 7 - Modal Jazz →](chapter-07-modal-jazz)
