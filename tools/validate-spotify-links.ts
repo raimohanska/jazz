@@ -31,12 +31,19 @@ export function extractSpotifyLinks(filePath: string): SpotifyLink[] {
     // Reset regex state
     spotifyRegex.lastIndex = 0;
     while ((match = spotifyRegex.exec(line)) !== null) {
+      // Get context from previous line if current line is just the link
+      let context = line.trim();
+      if (context === match[0] && index > 0) {
+        // Include the previous line for context
+        context = lines[index - 1].trim() + ' ' + context;
+      }
+      
       links.push({
         file: filePath,
         line: index + 1,
         trackId: match[3],
         url: match[2],
-        context: line.trim()
+        context: context
       });
     }
   });
