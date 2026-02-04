@@ -190,27 +190,27 @@ The swing era was jazz's most vocal-friendly period. Singers were featured membe
    [Spotify](spotify:track:4chftpxXfLm0pZ6dOhiOSa)
 
 6. **"A-Tisket, A-Tasket"** – Ella Fitzgerald with Chick Webb (1938) – Joyful swing vocal  
-   [Spotify](spotify:track:3xFPvikCg8Ayfk97SplyPD). :contentReference[oaicite:0]{index=0}
+   [Spotify](spotify:track:3xFPvikCg8Ayfk97SplyPD)
 
 7. **"Cherokee"** – Charlie Barnet Orchestra (1939) – Complex harmony that beboppers would mine  
-   [Spotify](spotify:track:5yIV30eDdeuoMXIY1E33cC). :contentReference[oaicite:1]{index=1}
+   [Spotify](spotify:track:5yIV30eDdeuoMXIY1E33cC)
 
 **Small Group**  
 
 8. **"Body and Soul"** – Coleman Hawkins (1939) – Saxophone ballad improvisation at its finest; just tenor and rhythm section  
-   [Spotify](spotify:track:5bvAFF8k5LFVcqcVOdUUUc). :contentReference[oaicite:2]{index=2}
+   [Spotify](spotify:track:5bvAFF8k5LFVcqcVOdUUUc)
 
 9. **"Lester Leaps In"** – Kansas City Seven (1939) – Lester Young’s cool, melodic approach in Basie small group  
-   [Spotify](spotify:track:4BfKuyijmMJLTKbd8rvDZv). :contentReference[oaicite:3]{index=3}
+   [Spotify](spotify:track:4BfKuyijmMJLTKbd8rvDZv)
 
 10. **"Strange Fruit"** – Billie Holiday (1939) – Haunting protest song with small combo; Holiday’s interpretive power  
-   [Spotify](spotify:track:1CTex49P0iWwzUGsMNjgaV). :contentReference[oaicite:4]{index=4}
+   [Spotify](spotify:track:1CTex49P0iWwzUGsMNjgaV)
 
 11. **"Solo Flight"** – Benny Goodman Sextet feat. Charlie Christian (1941) – Electric guitar revolution; Christian’s fluid bebop-anticipating lines  
-   [Spotify](spotify:track:2XTKjPCIFF3etnPbKKHquz). :contentReference[oaicite:5]{index=5}
+   [Spotify](spotify:track:2XTKjPCIFF3etnPbKKHquz)
 
 12. **"After You’ve Gone"** – Benny Goodman Trio (1935) – Goodman, Teddy Wilson, Gene Krupa; integrated jazz at its swinging best  
-   [Spotify](spotify:track:32t6iRdn5AA0maIM75IyEa). :contentReference[oaicite:6]{index=6}
+   [Spotify](spotify:track:32t6iRdn5AA0maIM75IyEa)
 
 
 
