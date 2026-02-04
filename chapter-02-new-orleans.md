@@ -128,13 +128,13 @@ Armstrong's singing was as influential as his trumpet playing—natural, rhythmi
 ### Essential Recordings
 
 1. **"Dippermouth Blues"** – King Oliver's Creole Jazz Band (1923) – Classic collective improvisation; Oliver's muted solo is legendary  
-   [Spotify](https://open.spotify.com/track/6aPazwwW4d5kklYzi3oT7M)
+   [Spotify](https://open.spotify.com/track/1ellvuD5W8qe7qXUCr5wsV)
 
 2. **"West End Blues"** – Louis Armstrong (1928) – Armstrong's opening cadenza changed jazz forever; shift from collective to solo improvisation  
    [Spotify](https://open.spotify.com/track/7dOz8RrPWP9UgJ8X8p1vU7)
 
 3. **"Potato Head Blues"** – Louis Armstrong's Hot Seven (1927) – Stop-time breaks showcase Armstrong's rhythmic genius  
-   [Spotify](https://open.spotify.com/track/6I6euNhufMjr9Su5LbioSQ)
+   [Spotify](https://open.spotify.com/track/1SrtP6uhdZqUroUnOSX0ME)
 
 4. **"Black Bottom Stomp"** – Jelly Roll Morton's Red Hot Peppers (1926) – Perfect balance of composition and improvisation  
    [Spotify](https://open.spotify.com/track/3xZTC6uGNl82p4gnPszCj2)
