@@ -99,6 +99,9 @@ The most common chord progression in jazz. In the key of C: Dm7 - G7 - Cmaj7. De
 #### Modulation
 Changing from one key to another within a piece. In ragtime, modulation typically occurs between strains, often moving to the subdominant (IV) key. Jazz uses various techniques for modulation including ii-V-I progressions and pivot chords.
 
+#### Modal Jazz
+Jazz based on modes (scales) rather than complex chord progressions. Emerged in late 1950s (Miles Davis's "Kind of Blue"). Instead of rapidly changing chords, modal jazz uses one or two modes per section, creating static or slowly-moving harmony. Allows improvisers to explore melodic and rhythmic possibilities without constant harmonic change. Key works: "So What," "Impressions," John Coltrane's sheets of sound over modal vamps.
+
 #### Modes
 Seven-note scales derived from the major scale, each starting on a different degree:
 - **Ionian**: Major scale (C-D-E-F-G-A-B)
