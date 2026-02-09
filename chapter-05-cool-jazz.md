@@ -5,8 +5,8 @@ nav_order: 5
 parent: Chapters
 ---
 
-![Intimate jazz quartet performing in subdued lighting](https://images.unsplash.com/photo-1519683384663-a2e08023a7d7?w=1200)
-*Photo by [Dominik Scythe](https://unsplash.com/@drscythe) on Unsplash - The cool, relaxed vibe of West Coast jazz*
+![Jazz quartet performing in intimate club setting](https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?w=1200)
+*Photo by [Larisa Birta](https://unsplash.com/@larisabirta) on Unsplash - The cool, relaxed vibe of West Coast jazz*
 
 # 5. Cool Jazz & West Coast Jazz (Late 1940s-1950s)
 
