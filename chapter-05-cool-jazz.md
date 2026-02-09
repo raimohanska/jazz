@@ -212,6 +212,4 @@ By the late 1950s, cool jazz was blending into other developments—modal explor
 
 ---
 
----
-
 **Navigation:** [← Chapter 4 - Bebop](chapter-04-bebop) | [Next: Chapter 6 - Hard Bop →](chapter-06-hard-bop)

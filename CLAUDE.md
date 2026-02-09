@@ -162,13 +162,6 @@ Each style chapter MUST include these sections in order:
 
 The following chapters contain placeholders (`[*To be written...*]`) that need to be written:
 
-### Chapter 5: Cool Jazz & West Coast Jazz (Late 1940s-1950s)
-- Cool jazz as a response to bebop's intensity
-- Birth of the Cool sessions 1949
-- West Coast scene in Los Angeles
-- Connection to classical music and Third Stream
-- Key musicians: Miles Davis, Gerry Mulligan, Chet Baker, Dave Brubeck, Paul Desmond, Lennie Tristano, Lee Konitz, Stan Getz, Modern Jazz Quartet, Shorty Rogers
-
 ### Chapter 6: Hard Bop (1950s-1960s)
 - Hard bop as blues and gospel-infused bebop
 - East Coast scene
@@ -227,8 +220,8 @@ The following chapters contain placeholders (`[*To be written...*]`) that need t
 
 ## Reference: Existing Chapter Examples
 
-See chapter-01-ragtime.md through chapter-04-bebop.md for examples of:
-- Appropriate depth and length (~800-1200 words per chapter)
+See chapter-01-ragtime.md through chapter-05-cool-jazz.md for examples of:
+- Appropriate depth and length (~800-1200 words per chapter, with later chapters 1500-1800 words)
 - How to balance history, analysis, and practical information
 - Proper formatting and linking conventions
 - Essential recordings annotation style
