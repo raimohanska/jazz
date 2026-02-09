@@ -43,6 +43,9 @@ Six-note scale: 1 - ♭3 - 4 - ♭5 - 5 - ♭7. Combines minor pentatonic with a
 
 ### C
 
+#### Call-and-Response
+A musical pattern where one musician or section plays a phrase (the "call") and another musician or section answers (the "response"). Fundamental to African music traditions and central to jazz from its earliest forms. In big band swing, brass and reed sections often trade calls and responses. In blues and gospel, vocals and instruments engage in call-and-response dialogue.
+
 #### Chord Extensions
 Notes added above the basic triad or seventh chord: 9ths, 11ths, 13ths. Common in jazz harmony. Example: Cmaj9 = C-E-G-B-D. Creates richer, more colorful harmony.
 
@@ -68,6 +71,9 @@ New melodies composed over existing chord progressions. Common in bebop as way t
 - "Ornithology" over "How High the Moon"
 - "Anthropology" over "I Got Rhythm"
 
+#### Counterpoint
+The art of combining multiple independent melodic lines that are harmonically interdependent but rhythmically and melodically distinct. Each line maintains its own character while contributing to the overall harmonic structure. In jazz, counterpoint appears in New Orleans collective improvisation (trumpet, clarinet, and trombone weaving independent lines), cool jazz arrangements influenced by Bach, and Third Stream compositions. Contrasts with homophonic texture where one melody dominates with accompaniment.
+
 ### D
 
 #### Diatonic
@@ -83,6 +89,11 @@ Continuous streams of eighth notes, the primary texture of bebop improvisation. 
 
 #### Enclosures
 Melodic technique surrounding a target note from above and below. Can be chromatic, diatonic, or mixed. Creates the angular, non-linear quality of bebop melody.
+
+### H
+
+#### Homophonic
+A musical texture where one primary melody is supported by harmonic accompaniment (chords). Most popular music and much of jazz uses homophonic texture: a soloist plays melody while the rhythm section provides harmonic support. Contrasts with polyphonic texture (multiple independent melodies) and monophonic texture (single unaccompanied melody). Swing era big bands shifted from New Orleans's polyphonic collective improvisation to homophonic arrangements with featured soloists.
 
 ### F
 
@@ -117,7 +128,17 @@ Became the basis for modal jazz in the late 1950s-60s.
 #### Multi-Strain Form
 A compositional structure with multiple distinct melodic sections (strains), each typically 16 bars long. Borrowed from march form, it was the standard structure for ragtime pieces. Pattern example: AA BB A CC DD, where each letter represents a different melodic theme.
 
+### P
+
+#### Polyphonic
+A musical texture featuring multiple independent melodic lines played simultaneously, each with its own rhythmic and melodic identity. The defining characteristic of New Orleans jazz collective improvisation, where trumpet, clarinet, and trombone each played distinct melodic roles while creating a coherent whole. Also called "polyphony." Contrasts with homophonic texture (melody with accompaniment). Bach's fugues are classic examples from classical music.
+
 ### R
+
+#### Riff
+A short, repeated melodic phrase, typically 2-4 bars long. Central to big band swing, particularly Kansas City style bands like Count Basie's. Riffs can be simple blues-based phrases passed between sections (call-and-response), layered to create texture, or used as the main theme of a composition. Riff-based tunes include "One O'Clock Jump" and "Jumpin' at the Woodside." Also used in bebop heads and throughout jazz history.
+
+### R (continued)
 
 #### Reharmonization
 Substituting different chords for the original harmony while maintaining (or enhancing) the melodic structure. Bebop musicians frequently reharmonized standards, adding ii-V progressions and altered chords. Continues to be important improvisational and compositional technique.
@@ -176,6 +197,9 @@ Emphasis on beats 1 and 3 (rather than all four beats). Characteristic of New Or
 Triads built on upper extensions of chords. Example: Over Cmaj9, play an Em triad (E-G-B) = the 3rd, 5th, and 7th of Cmaj7. Creates rich voicings. Common in bebop and later piano and horn voicings.
 
 ### V
+
+#### Vibrato
+A slight, regular fluctuation in pitch that adds warmth, expression, and character to a sustained note. Every jazz musician develops their own vibrato style. Sidney Bechet's wide, fast vibrato was distinctive; Miles Davis used minimal vibrato for a cooler sound; Coleman Hawkins had a pronounced, emotional vibrato. Classical and jazz vibrato differ in speed, width, and when it's applied. Vibrato technique is crucial for expressing emotion and developing personal sound.
 
 #### Vocalese
 Adding lyrics to existing instrumental jazz solos. Requires singing complex bebop or later lines with words. Pioneered by Eddie Jefferson, popularized by Lambert, Hendricks & Ross. Example: Jon Hendricks's lyrics to famous solos.
