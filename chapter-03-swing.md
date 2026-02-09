@@ -30,13 +30,13 @@ Swing represented a fundamental shift from New Orleans jazz:
 **From New Orleans/Dixieland**:
 - Small groups (5-7 pieces) → Large ensembles (12-25 pieces)
 - Collective improvisation → Arranged section writing with featured soloists
-- Polyphonic texture → Homophonic (melody with accompaniment) and call-and-response
+- [Polyphonic](appendix-b-terminology#polyphonic) texture → [Homophonic](appendix-b-terminology#homophonic) (melody with accompaniment) and [call-and-response](appendix-b-terminology#call-and-response)
 - Loose, variable forms → Tightly arranged compositions
 - But kept: blues feeling, improvisational spirit, swing rhythm
 
 **New Elements**:
 - **Arranged music**: Written parts for sections (saxophones, trumpets, trombones)
-- **Riff-based composition**: Simple melodic phrases repeated and layered
+- **[Riff](appendix-b-terminology#riff)-based composition**: Simple melodic phrases repeated and layered
 - **Swing rhythm refined**: More sophisticated, propulsive [swing feel](appendix-b-terminology#swing-rhythm)
 - **Virtuosic soloists**: Featured improvisers within arrangements
 - **Song form emphasis**: 32-bar AABA structures from Tin Pan Alley

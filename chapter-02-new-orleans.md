@@ -32,7 +32,7 @@ New Orleans jazz took elements from multiple sources and transformed them:
 
 **From Blues**:
 - Blues scales, blue notes, and emotional expression
-- Call-and-response patterns
+- [Call-and-response](appendix-b-terminology#call-and-response) patterns
 - But added: ensemble interplay and more complex harmony
 
 **From Brass Band Traditions**:
@@ -106,7 +106,7 @@ Leader of the Creole Jazz Band, the first great jazz ensemble to record extensiv
 The most important figure in jazz history. Revolutionized the music by emphasizing individual solo improvisation over collective improvisation. Extraordinary technique, rhythmic sophistication, and emotional depth. His influence extends through every era of jazz.
 
 **Sidney Bechet (1897-1959)** - Soprano Saxophone/Clarinet
-First major saxophonist in jazz. Powerful, wide vibrato and passionate playing. Rival to Armstrong in virtuosity and influence.
+First major saxophonist in jazz. Powerful, wide [vibrato](appendix-b-terminology#vibrato) and passionate playing. Rival to Armstrong in virtuosity and influence.
 
 **Johnny Dodds (1892-1940)** - Clarinet
 Definitive New Orleans clarinetist. Blues-drenched tone and inventive improvisation.
@@ -163,7 +163,7 @@ Armstrong's singing was as influential as his trumpet playing—natural, rhythmi
 
 ### The Transition Ahead
 
-By the late 1920s, jazz was evolving rapidly. Louis Armstrong's recordings with the Hot Five and Hot Seven demonstrated the power of individual solo improvisation. As jazz moved north and became more commercial, it would transform from New Orleans collective improvisation into the arranged big band swing of the 1930s. The intimate, polyphonic conversation of New Orleans jazz would give way to section-based arrangements and featured soloists, but the foundation—blues feeling, swing rhythm, and improvisational spirit—would remain.
+By the late 1920s, jazz was evolving rapidly. Louis Armstrong's recordings with the Hot Five and Hot Seven demonstrated the power of individual solo improvisation. As jazz moved north and became more commercial, it would transform from New Orleans collective improvisation into the arranged big band swing of the 1930s. The intimate, [polyphonic](appendix-b-terminology#polyphonic) conversation of New Orleans jazz would give way to section-based arrangements and featured soloists, but the foundation—blues feeling, swing rhythm, and improvisational spirit—would remain.
 
 ---
 

@@ -34,7 +34,7 @@ Cool jazz didn't emerge from nowhere—it was both reaction and evolution:
 **From Bebop**:
 - **Tempo**: Slower, more relaxed (vs. bebop's breakneck speeds)
 - **Tone**: Lighter, softer instrumental sounds (vs. bebop's aggressive attack)
-- **Texture**: Arranged counterpoint and ensemble passages (vs. bebop's head-solos-head)
+- **Texture**: Arranged [counterpoint](appendix-b-terminology#counterpoint) and ensemble passages (vs. bebop's head-solos-head)
 - **Emotion**: Restrained, introspective (vs. bebop's hot intensity)
 - **Harmony**: Similarly complex but less altered and chromatic
 - **Rhythm section**: Less aggressive [comping](appendix-b-terminology#comping), more subtle [swing feel](appendix-b-terminology#swing-rhythm)
