@@ -106,7 +106,7 @@ Created the [four-beat feel](appendix-b-terminology#four-beat-feel) that propell
 - Diatonic progressions from popular songs
 - [ii-V-I progressions](appendix-b-terminology#ii-v-i-progression) becoming standard
 - Some extended chords (6ths, 9ths)
-- Secondary dominants
+- [Secondary dominants](appendix-b-terminology#secondary-dominants)
 - More sophisticated than New Orleans jazz, but simpler than bebop to come
 
 #### Melody
