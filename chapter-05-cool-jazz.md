@@ -5,7 +5,7 @@ nav_order: 5
 parent: Chapters
 ---
 
-![Jazz quartet performing in intimate club setting](https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?w=1200)
+![Jazz musician in contemplative performance](https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=1200)
 *Photo by [Larisa Birta](https://unsplash.com/@larisabirta) on Unsplash - The cool, relaxed vibe of West Coast jazz*
 
 # 5. Cool Jazz & West Coast Jazz (Late 1940s-1950s)
