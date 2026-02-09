@@ -90,15 +90,15 @@ Continuous streams of eighth notes, the primary texture of bebop improvisation. 
 #### Enclosures
 Melodic technique surrounding a target note from above and below. Can be chromatic, diatonic, or mixed. Creates the angular, non-linear quality of bebop melody.
 
-### H
-
-#### Homophonic
-A musical texture where one primary melody is supported by harmonic accompaniment (chords). Most popular music and much of jazz uses homophonic texture: a soloist plays melody while the rhythm section provides harmonic support. Contrasts with polyphonic texture (multiple independent melodies) and monophonic texture (single unaccompanied melody). Swing era big bands shifted from New Orleans's polyphonic collective improvisation to homophonic arrangements with featured soloists.
-
 ### F
 
 #### Four-Beat Feel
 All four beats of the bar felt equally, as opposed to two-beat feel (emphasis on 1 and 3). Characteristic of swing era and all jazz after. Created by walking bass and drummer's ride cymbal.
+
+### H
+
+#### Homophonic
+A musical texture where one primary melody is supported by harmonic accompaniment (chords). Most popular music and much of jazz uses homophonic texture: a soloist plays melody while the rhythm section provides harmonic support. Contrasts with polyphonic texture (multiple independent melodies) and monophonic texture (single unaccompanied melody). Swing era big bands shifted from New Orleans's polyphonic collective improvisation to homophonic arrangements with featured soloists.
 
 ### I
 
@@ -137,8 +137,6 @@ A musical texture featuring multiple independent melodic lines played simultaneo
 
 #### Riff
 A short, repeated melodic phrase, typically 2-4 bars long. Central to big band swing, particularly Kansas City style bands like Count Basie's. Riffs can be simple blues-based phrases passed between sections (call-and-response), layered to create texture, or used as the main theme of a composition. Riff-based tunes include "One O'Clock Jump" and "Jumpin' at the Woodside." Also used in bebop heads and throughout jazz history.
-
-### R (continued)
 
 #### Reharmonization
 Substituting different chords for the original harmony while maintaining (or enhancing) the melodic structure. Bebop musicians frequently reharmonized standards, adding ii-V progressions and altered chords. Continues to be important improvisational and compositional technique.
