@@ -201,7 +201,7 @@ The swing era was jazz's most vocal-friendly period. Singers were featured membe
    [Spotify](spotify:track:5bvAFF8k5LFVcqcVOdUUUc)
 
 9. **"Lester Leaps In"** – Kansas City Seven (1939) – Lester Young’s cool, melodic approach in Basie small group  
-   [Spotify](spotify:track:4BfKuyijmMJLTKbd8rvDZv)
+   [Spotify](spotify:track:7jZpCnL5pypjHICTiinJr1?si=8757fb535cd94d22)
 
 10. **"Strange Fruit"** – Billie Holiday (1939) – Haunting protest song with small combo; Holiday’s interpretive power  
    [Spotify](spotify:track:1CTex49P0iWwzUGsMNjgaV)
